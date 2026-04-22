@@ -24,7 +24,7 @@ import requests
 # CONFIG
 # ===========================================================================
 
-MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY", "jXOD1ZX2TXyI9qGJtyXeEQ9k5s3YhL6I")
+MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY", "API_KEY")
 MISTRAL_API_URL = "https://api.mistral.ai/v1/chat/completions"
 MISTRAL_MODEL = (
     "mistral-large-latest"  # best quality; swap to mistral-small to save quota
