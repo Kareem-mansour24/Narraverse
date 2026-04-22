@@ -1,0 +1,1116 @@
+{
+  "blueprint": {
+    "title": "A Court of Wings and Ruin",
+    "premise": "Nesta Archeron is exiled to the brutal Illyrian Mountains under Cassian’s command, where the harsh wilderness and the weight of her own trauma force her to confront the hollowness inside her. As Cassian pushes her to train among the warriors she despises, their explosive dynamic ignites a battle of wills that neither can escape—one that may either break them or forge something unrecognizable between them.",
+    "structure_type": "dual-perspective linear",
+    "total_chapters": 30,
+    "central_conflict": "Nesta’s refusal to engage with her own healing clashes with Cassian’s relentless demand for her to reclaim her strength, forcing both to question whether survival is enough—or if they must learn to live again.",
+    "primary_arcs": [
+      {
+        "arc_name": "Nesta’s Descent and Rebirth",
+        "character": "Nesta",
+        "starts_at": "Arrives in the Illyrian Mountains hollow, numb, and determined to resist any attempt to change her.",
+        "ends_at": "Chooses to fight—not for others, but for herself—embracing the warrior within her she never knew existed.",
+        "key_turning_point": "Nesta is forced to save a wounded warrior during a training exercise, realizing her strength is not just a weapon but a lifeline."
+      },
+      {
+        "arc_name": "Cassian’s Gambit",
+        "character": "Cassian",
+        "starts_at": "Believes Nesta’s exile is the only way to save her, but doubts his own methods as her resistance wears him down.",
+        "ends_at": "Accepts that Nesta’s healing cannot be forced, and that his role is not to save her—but to stand beside her when she saves herself.",
+        "key_turning_point": "Cassian witnesses Nesta’s raw power during a sparring match and realizes she is not the broken girl he thought he knew."
+      },
+      {
+        "arc_name": "The Illyrian Uprising",
+        "character": "Illyrian Warriors (Collective)",
+        "starts_at": "The warriors resent Nesta’s presence, seeing her as a spoiled outsider unworthy of their training.",
+        "ends_at": "A faction of warriors, led by a disillusioned Devlon, stages a coup, forcing Nesta and Cassian to unite or die.",
+        "key_turning_point": "Nesta’s refusal to back down during a public challenge earns her the respect of a few key warriors, fracturing the ranks."
+      }
+    ],
+    "acts": [
+      {
+        "label": "The Exile",
+        "chapter_range": "1-8",
+        "narrative_goal": "Establish the brutal reality of Nesta’s exile and the immediate tension between her and Cassian. Introduce the Illyrian culture and its disdain for outsiders, particularly women.",
+        "ends_with": "Nesta’s first public humiliation during training, where she is forced to spar with a warrior twice her size and is nearly broken—until she taps into a hidden reserve of power.",
+        "dominant_arcs": [
+          "Nesta’s Descent and Rebirth",
+          "Cassian’s Gambit"
+        ]
+      },
+      {
+        "label": "The Grind",
+        "chapter_range": "9-16",
+        "narrative_goal": "Show the slow, grueling process of Nesta’s training, where she begins to find fragments of herself in the discipline. Cassian’s methods grow more personal, and their clashes escalate into something charged with unspoken emotion.",
+        "ends_with": "Nesta saves a young warrior from a training accident, proving her instincts are sharper than anyone expected. Cassian sees her in a new light, but she refuses to acknowledge it.",
+        "dominant_arcs": [
+          "Nesta’s Descent and Rebirth",
+          "Cassian’s Gambit",
+          "The Illyrian Uprising"
+        ]
+      },
+      {
+        "label": "The Fracture",
+        "chapter_range": "17-24",
+        "narrative_goal": "The political tensions in the Illyrian ranks come to a head. Nesta’s growing skills make her a target, and Cassian’s leadership is tested. Their relationship reaches a breaking point—one that forces Nesta to confront her feelings for him, even as she denies them.",
+        "ends_with": "A failed assassination attempt on Nesta leaves her injured and Cassian enraged. The warriors realize she is not as weak as they thought, and a faction begins to rally around her.",
+        "dominant_arcs": [
+          "Nesta’s Descent and Rebirth",
+          "The Illyrian Uprising"
+        ]
+      },
+      {
+        "label": "The Reckoning",
+        "chapter_range": "25-30",
+        "narrative_goal": "The coup erupts, forcing Nesta and Cassian into a desperate alliance. Nesta must decide whether to flee or fight, and Cassian must trust her to hold her own. Their final confrontation is not with weapons, but with words—each laying bare the truths they’ve avoided.",
+        "ends_with": "Nesta leads a charge against the rebels, using her cunning and newfound strength to turn the tide. Cassian watches in awe as she claims her place among the warriors—not as an outsider, but as one of them. They return to Velaris changed, but the question of what comes next lingers between them.",
+        "dominant_arcs": [
+          "Nesta’s Descent and Rebirth",
+          "Cassian’s Gambit"
+        ]
+      }
+    ],
+    "world_threads_activated": [
+      "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian",
+      "Rhys and Cassian negotiate with Devlon about female warrior training schedule",
+      "Illyrian dissent and political unrest (implied in unresolved threads)",
+      "Nesta’s destructive behavior and emotional detachment (canon state)"
+    ],
+    "tone": "Gritty and raw, with moments of dark humor and simmering tension. The emotional register shifts between brutal honesty and quiet vulnerability, mirroring Nesta’s journey from numbness to feeling."
+  },
+  "compiled_context": {
+    "book_title": "A Court of Frost and Starlight.epub",
+    "user_prompt": "Focus on Nesta and Cassian",
+    "story_ending": {
+      "last_scene_summary": "Cassian retrieves Nesta from her apartment to bring her to Feyre's meeting at the riverfront estate. Feyre, Rhys, and Amren confront Nesta about her destructive behavior and inform her she will be sent to the Illyrian Mountains with Cassian.",
+      "entities_present": [
+        "Amren",
+        "Cassian",
+        "Elain",
+        "Feyre",
+        "Nesta",
+        "Ressina",
+        "Rhys"
+      ],
+      "location": "riverfront estate",
+      "critical_events": [
+        "Feyre mentally reveals to Rhys her desire to have a child with him",
+        "Rhys stops taking his contraceptive tonic, indicating they will try to conceive",
+        "Cassian arrives at Nesta's apartment and insists she come to Feyre's meeting",
+        "Feyre, Rhys, and Amren confront Nesta about her destructive behavior",
+        "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian"
+      ]
+    },
+    "characters": [
+      {
+        "name": "Feyre",
+        "descriptions": [
+          "wearing heavy charcoal sweater, tight black leggings, fleece-lined boots, hair loosely braided",
+          "silver-and-sapphire band on left hand"
+        ],
+        "canon_state": {
+          "knowledge": "aware of Hewn City visit requirement",
+          "possession": "owns new sketchbook, scarf, and painting satchel",
+          "emotional_state": "experienced emotional release and closure",
+          "palm_tattoos": "mountain with three stars (Night Court insignia)"
+        },
+        "recent_changes": [
+          {
+            "attribute": "emotional_state",
+            "previous_state": "",
+            "new_state": "experienced emotional release and closure",
+            "change_type": "condition",
+            "evidence": "painting felt like a first stitch to close a wound",
+            "chapter": 10
+          },
+          {
+            "attribute": "possession",
+            "previous_state": "",
+            "new_state": "owns new sketchbook, scarf, and painting satchel",
+            "change_type": "possession",
+            "evidence": "Rhys gives her three birthday gifts",
+            "chapter": 17
+          },
+          {
+            "attribute": "palm tattoos",
+            "previous_state": "cat's eye symbol",
+            "new_state": "mountain with three stars (Night Court insignia)",
+            "change_type": "physical_state",
+            "evidence": "Rhys changed the tattoos on both her palms",
+            "chapter": 22
+          }
+        ],
+        "aliases": [
+          "High Lady of the Night Court",
+          "my sister",
+          "sister"
+        ]
+      },
+      {
+        "name": "Rhys",
+        "descriptions": [
+          "chilled hands",
+          "Illyrian leathers gleamed with melted snow, snow on dark hair and wings"
+        ],
+        "canon_state": {
+          "knowledge": "aware of full extent of Illyrian dissent",
+          "physical_condition": "has eaten food after not eating properly all day",
+          "contraceptive_use": "stopped taking tonic"
+        },
+        "recent_changes": [
+          {
+            "attribute": "physical condition",
+            "previous_state": "",
+            "new_state": "has eaten food after not eating properly all day",
+            "change_type": "physical_state",
+            "evidence": "Feyre brings him food and he eats it",
+            "chapter": 5
+          },
+          {
+            "attribute": "knowledge",
+            "previous_state": "",
+            "new_state": "aware of full extent of Illyrian dissent",
+            "change_type": "knowledge",
+            "evidence": "Azriel presents maps showing more clans than expected",
+            "chapter": 7
+          },
+          {
+            "attribute": "contraceptive use",
+            "previous_state": "taking tonic",
+            "new_state": "stopped taking tonic",
+            "change_type": "status",
+            "evidence": "He hadn't taken his contraceptive tonic with breakfast",
+            "chapter": 22
+          }
+        ],
+        "aliases": [
+          "High Lord",
+          "mate",
+          "Rhysand"
+        ]
+      },
+      {
+        "name": "Cassian",
+        "descriptions": [
+          "dark hair, wings, crimson Siphons",
+          "wearing flying leathers and gloves"
+        ],
+        "canon_state": {
+          "location": "settled in town house bedroom"
+        },
+        "recent_changes": [
+          {
+            "attribute": "location",
+            "previous_state": "",
+            "new_state": "settled in town house bedroom",
+            "change_type": "location",
+            "evidence": "dumped his leather bag on the narrow bed",
+            "chapter": 16
+          }
+        ],
+        "aliases": [
+          "brute",
+          "Illyrian warrior",
+          "warrior"
+        ]
+      },
+      {
+        "name": "Azriel",
+        "descriptions": [
+          "shadows sliding over his neck like living tattoos",
+          "scarred fingers"
+        ],
+        "canon_state": {
+          "location": "settled in town house bedroom"
+        },
+        "recent_changes": [
+          {
+            "attribute": "location",
+            "previous_state": "",
+            "new_state": "settled in town house bedroom",
+            "change_type": "location",
+            "evidence": "setting his own bag on the bed opposite Cassian's",
+            "chapter": 16
+          }
+        ],
+        "aliases": [
+          "Az",
+          "the shadowsinger"
+        ]
+      },
+      {
+        "name": "Elain",
+        "descriptions": [
+          "hair half up, apron over rose-pink gown dusted with flour, skin gained color, face filled in",
+          "flour-coated hands, apron over dusty-pink gown, braid"
+        ],
+        "canon_state": {},
+        "recent_changes": [],
+        "aliases": [
+          "my sister",
+          "sister"
+        ]
+      },
+      {
+        "name": "Mor",
+        "descriptions": [
+          "flushed cheeks, braided golden hair, white fur-lined cloak, brown coat",
+          "wearing red gown with gold jewelry"
+        ],
+        "canon_state": {
+          "assignment": "offered diplomatic mission to other territories",
+          "emotional_state": "traumatized by Eris memory"
+        },
+        "recent_changes": [
+          {
+            "attribute": "emotional_state",
+            "previous_state": "",
+            "new_state": "traumatized by Eris memory",
+            "change_type": "condition",
+            "evidence": "Mor experiences vivid flashback to her abandonment",
+            "chapter": 6
+          },
+          {
+            "attribute": "assignment",
+            "previous_state": "",
+            "new_state": "offered diplomatic mission to other territories",
+            "change_type": "status",
+            "evidence": "Rhys asks Mor to win over other lands through diplomatic visits",
+            "chapter": 14
+          }
+        ],
+        "aliases": []
+      },
+      {
+        "name": "Nesta",
+        "descriptions": [
+          "lost weight, proud angular face with sharp cheekbones, hair in braided coronet, wearing gray gown, immaculately clean despite surroundings",
+          "baring teeth, fingers curling into invisible claws, nose crinkled with rage"
+        ],
+        "canon_state": {
+          "possession": "receives rent money from Feyre",
+          "location": "ordered to Illyrian Mountains",
+          "emotional_state": "feeling nothing, hollow"
+        },
+        "recent_changes": [
+          {
+            "attribute": "possession",
+            "previous_state": "receives set of five novels from Elain",
+            "new_state": "receives rent money from Feyre",
+            "change_type": "possession",
+            "evidence": "Nesta took the banker's note for her rent money",
+            "chapter": 20
+          },
+          {
+            "attribute": "emotional_state",
+            "previous_state": "",
+            "new_state": "feeling nothing, hollow",
+            "change_type": "condition",
+            "evidence": "She hadn't felt anything in months... As hollow as she felt",
+            "chapter": 21
+          },
+          {
+            "attribute": "location",
+            "previous_state": "present at Solstice celebration",
+            "new_state": "ordered to Illyrian Mountains",
+            "change_type": "location",
+            "evidence": "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian",
+            "chapter": 28
+          }
+        ],
+        "aliases": [
+          "Nesta Archeron"
+        ]
+      },
+      {
+        "name": "Amren",
+        "descriptions": [
+          "wearing enormous white fur coat, only hair and silver eyes visible above collar",
+          "seated at worktable doing jigsaw puzzle, red mouth, silver eyes, long red nails"
+        ],
+        "canon_state": {
+          "diet": "struggling with solid food adaptation"
+        },
+        "recent_changes": [
+          {
+            "attribute": "diet",
+            "previous_state": "",
+            "new_state": "struggling with solid food adaptation",
+            "change_type": "condition",
+            "evidence": "Amren complains about the inconvenience of eating and bodily functions in her High Fae form",
+            "chapter": 12
+          }
+        ],
+        "aliases": [
+          "lady",
+          "Second"
+        ]
+      },
+      {
+        "name": "Lucien",
+        "descriptions": [
+          "wearing sapphire jacket, mechanical eye whirring"
+        ],
+        "canon_state": {
+          "living_situation": "belongings sent from Spring Court, staying with Band of Exiles"
+        },
+        "recent_changes": [
+          {
+            "attribute": "living_situation",
+            "previous_state": "",
+            "new_state": "belongings sent from Spring Court, staying with Band of Exiles",
+            "change_type": "status",
+            "evidence": "Tamlin sent all Lucien's belongings from Spring Court, Lucien reveals he stays with Jurian and Vassa",
+            "chapter": 18
+          }
+        ],
+        "aliases": []
+      },
+      {
+        "name": "Ressina",
+        "descriptions": [
+          "pale green skin with rose blush, sable hair, ochre eyes, brown coat, pink scarf, slender long ears",
+          "thick long sweater, warm leggings, shearling-lined work boots splattered with paint"
+        ],
+        "canon_state": {},
+        "recent_changes": [],
+        "aliases": []
+      }
+    ],
+    "relationships": [
+      {
+        "between": "Feyre ↔ Nesta",
+        "type": "SIBLINGS",
+        "latest": "confrontation about destructive behavior and intervention",
+        "evidence": "Feyre confronts Nesta about her behavior and orders her to leave Velaris"
+      },
+      {
+        "between": "Feyre ↔ Ressina",
+        "type": "PARTNERSHIP",
+        "latest": "business proposal made",
+        "evidence": "Feyre asks Ressina about being a business partner for the studio"
+      },
+      {
+        "between": "Feyre ↔ Rhys",
+        "type": "MATES",
+        "latest": "decided to try for a child together",
+        "evidence": "Feyre revealed her desire to have a child, Rhys stopped contraceptive use"
+      },
+      {
+        "between": "Nesta ↔ Cassian",
+        "type": "REJECTION",
+        "latest": "final rejection of his attempts to help",
+        "evidence": "Nesta rejects Cassian's gift and tells him to stop following her, treating him as if he were nothing"
+      },
+      {
+        "between": "Elain ↔ Lucien",
+        "type": "REJECTION",
+        "latest": "explicit refusal of mate bond",
+        "evidence": "Elain states 'I don't want a mate. I don't want a male' and avoids interaction with Lucien"
+      },
+      {
+        "between": "Rhys ↔ Mor",
+        "type": "TRUST",
+        "latest": "Rhys explicitly states trust in Mor's capabilities",
+        "evidence": "\"I trust you,\" she said at last. I bowed my head. \"Thank you.\""
+      },
+      {
+        "between": "Amren ↔ Cassian",
+        "type": "ANTAGONISM",
+        "latest": "increased tension regarding Nesta",
+        "evidence": "Amren taunts Cassian about Nesta coming for Solstice and enjoying seeing her 'shred into you'"
+      },
+      {
+        "between": "Amren ↔ Elain",
+        "type": "CONFRONTATION",
+        "latest": "challenges Elain about accepting her Fae nature",
+        "evidence": "Amren questions if Elain's curiosity about form-changing is about 'your own future' rather than Amren's past"
+      },
+      {
+        "between": "Cassian ↔ Emerie",
+        "type": "TRUST",
+        "latest": "Cassian entrusts Emerie with distribution task",
+        "evidence": "Cassian gives Emerie money and goods to distribute to needy families"
+      }
+    ],
+    "unresolved_threads": [
+      {
+        "event": "Rhys stops taking his contraceptive tonic, indicating they will try to conceive",
+        "decision": "Rhys stops contraceptive use",
+        "alternatives": [
+          "Continue contraception",
+          "Delay decision"
+        ],
+        "potential": 9
+      },
+      {
+        "event": "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian",
+        "decision": "Feyre decides to send Nesta to Illyrian Mountains",
+        "alternatives": [
+          "Different punishment",
+          "Rehabilitation in Velaris",
+          "No intervention"
+        ],
+        "potential": 9
+      },
+      {
+        "event": "Someone knocks at the front door during the gift exchange",
+        "decision": "Someone knocks on the door",
+        "alternatives": [
+          "No one knocks",
+          "Different person knocks"
+        ],
+        "potential": 8
+      },
+      {
+        "event": "Rhys and Cassian negotiate with Devlon about female warrior training schedule",
+        "decision": "Rhys and Cassian negotiate training compromise with Devlon",
+        "alternatives": [
+          "Direct confrontation",
+          "Abandoning the issue"
+        ],
+        "potential": 7
+      },
+      {
+        "event": "Rhys decides to visit the Spring Court alone after Solstice to assess Tamlin's border enforcement",
+        "decision": "Rhys decides to visit Spring Court alone",
+        "alternatives": [
+          "Bring others",
+          "Send someone else",
+          "Not visit at all"
+        ],
+        "potential": 7
+      },
+      {
+        "event": "Feyre asks Nesta to attend Solstice celebration and offers to pay her rent as incentive",
+        "decision": "Feyre offers to pay Nesta's rent as incentive",
+        "alternatives": [
+          "Leave without offering money",
+          "Use different persuasion method"
+        ],
+        "potential": 7
+      },
+      {
+        "event": "Nesta leaves the celebration and walks out into the freezing darkness",
+        "decision": "Nesta chooses to leave the celebration",
+        "alternatives": [
+          "Nesta stays longer",
+          "Nesta stays for the night"
+        ],
+        "potential": 7
+      },
+      {
+        "event": "Mor decides to avoid the mysterious watcher and returns home",
+        "decision": "Mor avoids the mysterious watcher",
+        "alternatives": [
+          "Confront the watcher",
+          "Investigate further"
+        ],
+        "potential": 7
+      }
+    ],
+    "causal_chains": [
+      {
+        "id": "chain_1",
+        "description": "Illyrian conflict and leadership struggles",
+        "type": "LINEAR",
+        "function": "Establishes political tension and character development for Rhys and Cassian",
+        "event_count": 7
+      },
+      {
+        "id": "chain_2",
+        "description": "Cassian's personal journey and motivation",
+        "type": "LINEAR",
+        "function": "Character backstory and motivation development for Cassian",
+        "event_count": 4
+      },
+      {
+        "id": "chain_3",
+        "description": "Feyre's Velaris activities and information gathering",
+        "type": "BRANCHING",
+        "function": "World-building and setup for Hewn City visit plotline",
+        "event_count": 5
+      }
+    ],
+    "flexible_events": [
+      {
+        "description": "Feyre dresses and prepares for her day",
+        "score": 10
+      },
+      {
+        "description": "Feyre interacts with Nuala in the kitchen about Solstice preparations",
+        "score": 9
+      },
+      {
+        "description": "Feyre purchases a jeweled piece for Amren's Solstice gift",
+        "score": 9
+      },
+      {
+        "description": "Feyre insists on bringing Rhys food after learning he hasn't eaten properly",
+        "score": 9
+      },
+      {
+        "description": "They discuss Feyre's Fae menstrual cycle and the extreme pain she experiences twice yearly",
+        "score": 9
+      }
+    ],
+    "character_trajectories": [
+      {
+        "character": "Feyre",
+        "last_events": [
+          "Nesta bathes and prepares to leave her apartment",
+          "Cassian arrives at Nesta's apartment and insists she come to Feyre's meeting",
+          "Cassian and Nesta travel to the riverfront estate",
+          "Feyre, Rhys, and Amren confront Nesta about her destructive behavior",
+          "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian"
+        ]
+      },
+      {
+        "character": "Rhys",
+        "last_events": [
+          "Cassian arrives at Nesta's apartment and insists she come to Feyre's meeting",
+          "Nesta bathes and prepares to leave her apartment",
+          "Cassian and Nesta travel to the riverfront estate",
+          "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian",
+          "Feyre, Rhys, and Amren confront Nesta about her destructive behavior"
+        ]
+      },
+      {
+        "character": "Cassian",
+        "last_events": [
+          "Nesta bathes and prepares to leave her apartment",
+          "Feyre, Rhys, and Amren confront Nesta about her destructive behavior",
+          "Cassian arrives at Nesta's apartment and insists she come to Feyre's meeting",
+          "Cassian and Nesta travel to the riverfront estate",
+          "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian"
+        ]
+      },
+      {
+        "character": "Azriel",
+        "last_events": [
+          "Cassian arrives at Nesta's apartment and insists she come to Feyre's meeting",
+          "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian",
+          "Cassian and Nesta travel to the riverfront estate",
+          "Nesta bathes and prepares to leave her apartment"
+        ]
+      },
+      {
+        "character": "Elain",
+        "last_events": [
+          "Cassian and Nesta travel to the riverfront estate",
+          "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian",
+          "Feyre, Rhys, and Amren confront Nesta about her destructive behavior",
+          "Cassian arrives at Nesta's apartment and insists she come to Feyre's meeting",
+          "Nesta bathes and prepares to leave her apartment"
+        ]
+      },
+      {
+        "character": "Mor",
+        "last_events": [
+          "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian",
+          "Cassian arrives at Nesta's apartment and insists she come to Feyre's meeting",
+          "Nesta bathes and prepares to leave her apartment",
+          "Cassian and Nesta travel to the riverfront estate",
+          "Feyre, Rhys, and Amren confront Nesta about her destructive behavior"
+        ]
+      }
+    ]
+  },
+  "world_state": {
+    "characters": [
+      {
+        "name": "Feyre",
+        "descriptions": [
+          "wearing heavy charcoal sweater, tight black leggings, fleece-lined boots, hair loosely braided",
+          "silver-and-sapphire band on left hand"
+        ],
+        "canon_state": {
+          "knowledge": "aware of Hewn City visit requirement",
+          "possession": "owns new sketchbook, scarf, and painting satchel",
+          "emotional_state": "experienced emotional release and closure",
+          "palm_tattoos": "mountain with three stars (Night Court insignia)"
+        },
+        "recent_changes": [
+          {
+            "attribute": "emotional_state",
+            "previous_state": "",
+            "new_state": "experienced emotional release and closure",
+            "change_type": "condition",
+            "evidence": "painting felt like a first stitch to close a wound",
+            "chapter": 10
+          },
+          {
+            "attribute": "possession",
+            "previous_state": "",
+            "new_state": "owns new sketchbook, scarf, and painting satchel",
+            "change_type": "possession",
+            "evidence": "Rhys gives her three birthday gifts",
+            "chapter": 17
+          },
+          {
+            "attribute": "palm tattoos",
+            "previous_state": "cat's eye symbol",
+            "new_state": "mountain with three stars (Night Court insignia)",
+            "change_type": "physical_state",
+            "evidence": "Rhys changed the tattoos on both her palms",
+            "chapter": 22
+          }
+        ],
+        "aliases": [
+          "High Lady of the Night Court",
+          "my sister",
+          "sister"
+        ]
+      },
+      {
+        "name": "Rhys",
+        "descriptions": [
+          "chilled hands",
+          "Illyrian leathers gleamed with melted snow, snow on dark hair and wings"
+        ],
+        "canon_state": {
+          "knowledge": "aware of full extent of Illyrian dissent",
+          "physical_condition": "has eaten food after not eating properly all day",
+          "contraceptive_use": "stopped taking tonic"
+        },
+        "recent_changes": [
+          {
+            "attribute": "physical condition",
+            "previous_state": "",
+            "new_state": "has eaten food after not eating properly all day",
+            "change_type": "physical_state",
+            "evidence": "Feyre brings him food and he eats it",
+            "chapter": 5
+          },
+          {
+            "attribute": "knowledge",
+            "previous_state": "",
+            "new_state": "aware of full extent of Illyrian dissent",
+            "change_type": "knowledge",
+            "evidence": "Azriel presents maps showing more clans than expected",
+            "chapter": 7
+          },
+          {
+            "attribute": "contraceptive use",
+            "previous_state": "taking tonic",
+            "new_state": "stopped taking tonic",
+            "change_type": "status",
+            "evidence": "He hadn't taken his contraceptive tonic with breakfast",
+            "chapter": 22
+          }
+        ],
+        "aliases": [
+          "High Lord",
+          "mate",
+          "Rhysand"
+        ]
+      },
+      {
+        "name": "Cassian",
+        "descriptions": [
+          "dark hair, wings, crimson Siphons",
+          "wearing flying leathers and gloves"
+        ],
+        "canon_state": {
+          "location": "settled in town house bedroom"
+        },
+        "recent_changes": [
+          {
+            "attribute": "location",
+            "previous_state": "",
+            "new_state": "settled in town house bedroom",
+            "change_type": "location",
+            "evidence": "dumped his leather bag on the narrow bed",
+            "chapter": 16
+          }
+        ],
+        "aliases": [
+          "brute",
+          "Illyrian warrior",
+          "warrior"
+        ]
+      },
+      {
+        "name": "Azriel",
+        "descriptions": [
+          "shadows sliding over his neck like living tattoos",
+          "scarred fingers"
+        ],
+        "canon_state": {
+          "location": "settled in town house bedroom"
+        },
+        "recent_changes": [
+          {
+            "attribute": "location",
+            "previous_state": "",
+            "new_state": "settled in town house bedroom",
+            "change_type": "location",
+            "evidence": "setting his own bag on the bed opposite Cassian's",
+            "chapter": 16
+          }
+        ],
+        "aliases": [
+          "Az",
+          "the shadowsinger"
+        ]
+      },
+      {
+        "name": "Elain",
+        "descriptions": [
+          "hair half up, apron over rose-pink gown dusted with flour, skin gained color, face filled in",
+          "flour-coated hands, apron over dusty-pink gown, braid"
+        ],
+        "canon_state": {},
+        "recent_changes": [],
+        "aliases": [
+          "my sister",
+          "sister"
+        ]
+      },
+      {
+        "name": "Mor",
+        "descriptions": [
+          "flushed cheeks, braided golden hair, white fur-lined cloak, brown coat",
+          "wearing red gown with gold jewelry"
+        ],
+        "canon_state": {
+          "assignment": "offered diplomatic mission to other territories",
+          "emotional_state": "traumatized by Eris memory"
+        },
+        "recent_changes": [
+          {
+            "attribute": "emotional_state",
+            "previous_state": "",
+            "new_state": "traumatized by Eris memory",
+            "change_type": "condition",
+            "evidence": "Mor experiences vivid flashback to her abandonment",
+            "chapter": 6
+          },
+          {
+            "attribute": "assignment",
+            "previous_state": "",
+            "new_state": "offered diplomatic mission to other territories",
+            "change_type": "status",
+            "evidence": "Rhys asks Mor to win over other lands through diplomatic visits",
+            "chapter": 14
+          }
+        ],
+        "aliases": []
+      },
+      {
+        "name": "Nesta",
+        "descriptions": [
+          "lost weight, proud angular face with sharp cheekbones, hair in braided coronet, wearing gray gown, immaculately clean despite surroundings",
+          "baring teeth, fingers curling into invisible claws, nose crinkled with rage"
+        ],
+        "canon_state": {
+          "possession": "receives rent money from Feyre",
+          "location": "ordered to Illyrian Mountains",
+          "emotional_state": "feeling nothing, hollow"
+        },
+        "recent_changes": [
+          {
+            "attribute": "possession",
+            "previous_state": "receives set of five novels from Elain",
+            "new_state": "receives rent money from Feyre",
+            "change_type": "possession",
+            "evidence": "Nesta took the banker's note for her rent money",
+            "chapter": 20
+          },
+          {
+            "attribute": "emotional_state",
+            "previous_state": "",
+            "new_state": "feeling nothing, hollow",
+            "change_type": "condition",
+            "evidence": "She hadn't felt anything in months... As hollow as she felt",
+            "chapter": 21
+          },
+          {
+            "attribute": "location",
+            "previous_state": "present at Solstice celebration",
+            "new_state": "ordered to Illyrian Mountains",
+            "change_type": "location",
+            "evidence": "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian",
+            "chapter": 28
+          }
+        ],
+        "aliases": [
+          "Nesta Archeron"
+        ]
+      },
+      {
+        "name": "Amren",
+        "descriptions": [
+          "wearing enormous white fur coat, only hair and silver eyes visible above collar",
+          "seated at worktable doing jigsaw puzzle, red mouth, silver eyes, long red nails"
+        ],
+        "canon_state": {
+          "diet": "struggling with solid food adaptation"
+        },
+        "recent_changes": [
+          {
+            "attribute": "diet",
+            "previous_state": "",
+            "new_state": "struggling with solid food adaptation",
+            "change_type": "condition",
+            "evidence": "Amren complains about the inconvenience of eating and bodily functions in her High Fae form",
+            "chapter": 12
+          }
+        ],
+        "aliases": [
+          "lady",
+          "Second"
+        ]
+      },
+      {
+        "name": "Lucien",
+        "descriptions": [
+          "wearing sapphire jacket, mechanical eye whirring"
+        ],
+        "canon_state": {
+          "living_situation": "belongings sent from Spring Court, staying with Band of Exiles"
+        },
+        "recent_changes": [
+          {
+            "attribute": "living_situation",
+            "previous_state": "",
+            "new_state": "belongings sent from Spring Court, staying with Band of Exiles",
+            "change_type": "status",
+            "evidence": "Tamlin sent all Lucien's belongings from Spring Court, Lucien reveals he stays with Jurian and Vassa",
+            "chapter": 18
+          }
+        ],
+        "aliases": []
+      },
+      {
+        "name": "Ressina",
+        "descriptions": [
+          "pale green skin with rose blush, sable hair, ochre eyes, brown coat, pink scarf, slender long ears",
+          "thick long sweater, warm leggings, shearling-lined work boots splattered with paint"
+        ],
+        "canon_state": {},
+        "recent_changes": [],
+        "aliases": []
+      }
+    ],
+    "relationships": [
+      {
+        "between": "Feyre ↔ Nesta",
+        "type": "SIBLINGS",
+        "latest": "confrontation about destructive behavior and intervention",
+        "evidence": "Feyre confronts Nesta about her behavior and orders her to leave Velaris"
+      },
+      {
+        "between": "Feyre ↔ Ressina",
+        "type": "PARTNERSHIP",
+        "latest": "business proposal made",
+        "evidence": "Feyre asks Ressina about being a business partner for the studio"
+      },
+      {
+        "between": "Feyre ↔ Rhys",
+        "type": "MATES",
+        "latest": "decided to try for a child together",
+        "evidence": "Feyre revealed her desire to have a child, Rhys stopped contraceptive use"
+      },
+      {
+        "between": "Nesta ↔ Cassian",
+        "type": "REJECTION",
+        "latest": "final rejection of his attempts to help",
+        "evidence": "Nesta rejects Cassian's gift and tells him to stop following her, treating him as if he were nothing"
+      },
+      {
+        "between": "Elain ↔ Lucien",
+        "type": "REJECTION",
+        "latest": "explicit refusal of mate bond",
+        "evidence": "Elain states 'I don't want a mate. I don't want a male' and avoids interaction with Lucien"
+      },
+      {
+        "between": "Rhys ↔ Mor",
+        "type": "TRUST",
+        "latest": "Rhys explicitly states trust in Mor's capabilities",
+        "evidence": "\"I trust you,\" she said at last. I bowed my head. \"Thank you.\""
+      },
+      {
+        "between": "Amren ↔ Cassian",
+        "type": "ANTAGONISM",
+        "latest": "increased tension regarding Nesta",
+        "evidence": "Amren taunts Cassian about Nesta coming for Solstice and enjoying seeing her 'shred into you'"
+      },
+      {
+        "between": "Amren ↔ Elain",
+        "type": "CONFRONTATION",
+        "latest": "challenges Elain about accepting her Fae nature",
+        "evidence": "Amren questions if Elain's curiosity about form-changing is about 'your own future' rather than Amren's past"
+      },
+      {
+        "between": "Cassian ↔ Emerie",
+        "type": "TRUST",
+        "latest": "Cassian entrusts Emerie with distribution task",
+        "evidence": "Cassian gives Emerie money and goods to distribute to needy families"
+      }
+    ],
+    "active_threads": [
+      {
+        "event": "Rhys stops taking his contraceptive tonic, indicating they will try to conceive",
+        "decision": "Rhys stops contraceptive use",
+        "alternatives": [
+          "Continue contraception",
+          "Delay decision"
+        ],
+        "potential": 9
+      },
+      {
+        "event": "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian",
+        "decision": "Feyre decides to send Nesta to Illyrian Mountains",
+        "alternatives": [
+          "Different punishment",
+          "Rehabilitation in Velaris",
+          "No intervention"
+        ],
+        "potential": 9
+      },
+      {
+        "event": "Someone knocks at the front door during the gift exchange",
+        "decision": "Someone knocks on the door",
+        "alternatives": [
+          "No one knocks",
+          "Different person knocks"
+        ],
+        "potential": 8
+      },
+      {
+        "event": "Rhys and Cassian negotiate with Devlon about female warrior training schedule",
+        "decision": "Rhys and Cassian negotiate training compromise with Devlon",
+        "alternatives": [
+          "Direct confrontation",
+          "Abandoning the issue"
+        ],
+        "potential": 7
+      },
+      {
+        "event": "Rhys decides to visit the Spring Court alone after Solstice to assess Tamlin's border enforcement",
+        "decision": "Rhys decides to visit Spring Court alone",
+        "alternatives": [
+          "Bring others",
+          "Send someone else",
+          "Not visit at all"
+        ],
+        "potential": 7
+      },
+      {
+        "event": "Feyre asks Nesta to attend Solstice celebration and offers to pay her rent as incentive",
+        "decision": "Feyre offers to pay Nesta's rent as incentive",
+        "alternatives": [
+          "Leave without offering money",
+          "Use different persuasion method"
+        ],
+        "potential": 7
+      },
+      {
+        "event": "Nesta leaves the celebration and walks out into the freezing darkness",
+        "decision": "Nesta chooses to leave the celebration",
+        "alternatives": [
+          "Nesta stays longer",
+          "Nesta stays for the night"
+        ],
+        "potential": 7
+      },
+      {
+        "event": "Mor decides to avoid the mysterious watcher and returns home",
+        "decision": "Mor avoids the mysterious watcher",
+        "alternatives": [
+          "Confront the watcher",
+          "Investigate further"
+        ],
+        "potential": 7
+      }
+    ],
+    "events_so_far": [
+      "The political tension among the Illyrian ranks escalates, with the warriors divided between loyalty to Bellius and respect for Nesta.",
+      "The Illyrian warriors are now openly divided, with Bellius’s faction escalating their threats against Nesta and a growing number of warriors questioning his leadership.",
+      "Cassian’s role shifts from passive observer to active leader, as he takes charge of the investigation into the assassination attempt and begins to rally support among the warriors.",
+      "Nesta’s relationship with the warriors evolves—while some still see her as an outsider, others now view her as a legitimate threat and potential ally, complicating the political landscape of the camp.",
+      "The assassination attempt raises the stakes for Nesta’s survival, forcing her to rely on her training and instincts in a way she never has before.",
+      "Nesta’s role in the camp shifts from passive trainee to active participant in the investigation, solidifying her position as a threat to Bellius’s faction.",
+      "Cassian’s leadership is tested as he navigates the political tensions within the camp and his growing trust in Nesta’s instincts.",
+      "Kars’s alliance with Nesta deepens, positioning him as a key ally in the Illyrian ranks and hinting at a larger faction of warriors who may support her.",
+      "The political divide among the warriors becomes more pronounced, with Bellius’s faction escalating their threats against Nesta and a growing number of warriors questioning his leadership.",
+      "Bellius’s faction is exposed as a direct threat to Nesta, escalating the political divide in the camp.",
+      "Cassian’s return shifts the balance of power, but the warriors’ loyalty remains divided.",
+      "Nesta’s defiance earns her the respect of a faction of warriors, further fracturing the Illyrian ranks.",
+      "The storm and the confrontation serve as a catalyst for the larger conflict to come, setting the stage for the Illyrian Uprising.",
+      "Bellius’s faction is revealed to be in contact with a rogue Illyrian clan, escalating the threat of an uprising.",
+      "Devlon’s loyalty to Bellius is confirmed, fracturing the camp’s leadership and forcing Cassian to take a more active role in the conflict.",
+      "Nesta’s alliance with Kars deepens, positioning him as a key ally in the Illyrian ranks and hinting at a larger faction of warriors who may support her.",
+      "The political divide among the warriors becomes more pronounced, with Bellius’s faction escalating their threats against Nesta and a growing number of warriors questioning his leadership.",
+      "Bellius’s faction is exposed as a direct threat, escalating the political divide in the camp.",
+      "Kars’s alliance with Nesta deepens, positioning him as a key ally in the Illyrian ranks.",
+      "Cassian’s leadership is tested as he navigates the political tensions and his growing trust in Nesta’s instincts.",
+      "Nesta’s defiance earns her the respect of a faction of warriors, further fracturing the Illyrian ranks.",
+      "Bellius’s faction is exposed as a direct threat, escalating the political divide in the camp.",
+      "Nesta’s defiance earns her the respect of a faction of warriors, further fracturing the Illyrian ranks.",
+      "Cassian’s leadership is tested as he openly defies Devlon, signaling a shift in the camp’s power dynamics.",
+      "Kars’s alliance with Nesta deepens, positioning him as a key ally in the Illyrian ranks.",
+      "Nesta’s faction of warriors grows, fracturing Bellius’s support and positioning her as a legitimate leader in the camp.",
+      "Cassian’s leadership is tested as he openly defies Devlon and aligns himself with Nesta’s plan, signaling a shift in the camp’s power dynamics.",
+      "Bellius’s faction is exposed as a direct threat to the camp’s survival, escalating the political divide and setting the stage for the final confrontation.",
+      "The warriors’ perception of Nesta shifts from outsider to leader, complicating the political landscape of the camp.",
+      "Bellius’s faction is temporarily neutralized, but his retreat suggests future threats.",
+      "Nesta’s leadership among the warriors is solidified, with a faction now openly loyal to her.",
+      "The political divide among the Illyrian warriors is more pronounced, with some still resenting Nesta’s influence.",
+      "Cassian’s trust in Nesta deepens, but their emotional distance remains unresolved.",
+      "Nesta’s leadership among the warriors is further solidified, with a faction openly loyal to her.",
+      "Devlon’s resentment toward Nesta escalates, positioning him as a direct threat to her and Cassian.",
+      "The emotional rift between Nesta and Cassian deepens, but their unspoken vulnerability hints at a potential breakthrough.",
+      "Bellius’s faction remains a looming threat, their retreat temporary and their intentions unclear.",
+      "Nesta’s faction of loyal warriors grows, further fracturing the camp’s unity.",
+      "Bellius’ faction allies with a rogue clan, escalating the threat of war.",
+      "Cassian’s trust in Nesta deepens, but their emotional distance remains unresolved.",
+      "Devlon’s resentment toward Nesta and Cassian intensifies, positioning him as a potential threat.",
+      "Bellius is exiled, his faction scattered and leaderless.",
+      "Devlon’s betrayal is exposed, leaving the camp’s leadership in question.",
+      "Nesta’s faction of warriors is now a recognized and respected force within the Illyrian ranks.",
+      "The emotional rift between Nesta and Cassian begins to shift, though neither knows what comes next.",
+      "Devlon is exiled, leaving the camp leaderless and in need of new leadership.",
+      "Nesta’s faction of warriors is now a recognized and respected force within the Illyrian ranks, with many looking to her for guidance.",
+      "The rogue clan allied with Bellius is defeated, but the threat of future uprisings remains.",
+      "The emotional rift between Nesta and Cassian begins to heal, though their relationship is still fragile and undefined.",
+      "Rhysand and Feyre’s arrival signals the Night Court’s involvement in the camp’s future, raising the stakes for Nesta and Cassian’s next steps."
+    ]
+  },
+  "previous_summaries": [
+    "Chapter 1 — The Weight of Wings: Nesta arrives in the Illyrian Mountains via wind-whipped flight with Cassian, her stomach lurching as she takes in the jagged peaks and the hostile stares of the warriors below. Cassian deposits her unceremoniously in a sparse stone hut, informing her this will be her home for the foreseeable future. She refuses to speak, her silence a weapon as she catalogs every crack in the walls and the absence of basic comforts. At dawn, Cassian drags Nesta to the training grounds, where a circle of warriors—led by the sneering Devlon—awaits. Cassian announces Nesta will train with them, sparking laughter and jeers. Nesta is paired with a hulking warrior named Bellius, who taunts her with the promise of breaking her. She says nothing, her body rigid with fury as she is forced to face him in the sparring ring. Nesta hits the ground hard, the impact knocking the breath from her lungs. The warriors erupt into laughter, but Cassian’s voice cuts through the noise, ordering Bellius to back off. Nesta pushes herself up, her hands shaking, and locks eyes with Cassian. For a heartbeat, something like regret flickers in his gaze—before she spits blood onto the snow and turns away, refusing his offered hand. [Closes on: Nesta standing at the threshold of her hut, staring out at the storm gathering over the peaks, her breath ragged but her expression unreadable. The first real test of her exile has ended—but the war has only just begun.]",
+    "Chapter 2 — The First Cut: Nesta wakes before dawn in her freezing hut, her body aching from the previous day’s humiliation. She refuses to acknowledge the pain, instead focusing on the cold as a distraction. Cassian arrives unannounced, tossing a bundle of training leathers at her feet and ordering her to dress. She complies in silence, her movements mechanical, but her hands tremble as she laces the unfamiliar garments. Cassian watches her with an unreadable expression, his usual bravado absent. The training grounds are already crowded when Nesta and Cassian arrive. The warriors fall silent as she steps into the ring, their stares heavy with disdain. Devlon smirks and assigns her to spar with Bellius again, but Cassian intervenes, pairing her with a younger warrior named Kars, who looks barely older than a boy. Kars hesitates, clearly uncomfortable, but Devlon goads him into action. Nesta moves on instinct, her body reacting before her mind can catch up. She lands a solid hit to Kars’ ribs, knocking the wind out of him. The crowd erupts—not in laughter, but in stunned silence. Cassian pulls Nesta aside after the sparring session, his voice low. He tells her she has potential but warns her not to let her guard down. Nesta scoffs, asking if he’s afraid she’ll embarrass him. Their argument is cut short when Bellius and a group of warriors surround them, taunting Nesta with crude remarks about her ‘soft city hands.’ Cassian steps between them, but Nesta shoves him aside, her voice icy. ‘I don’t need your protection.’ Bellius lunges at her, and Nesta reacts without thinking—her fist connects with his jaw, sending him sprawling. The crowd roars, but Nesta’s hands are shaking. Cassian grabs her arm, his grip bruising, and drags her away from the ring. Alone in her hut, Nesta examines her split knuckles, the pain grounding her. She hears footsteps outside and braces herself, expecting Cassian. Instead, Kars appears in the doorway, holding a small jar of salve. He stammers an apology for the morning’s sparring and offers to help tend her wounds. Nesta hesitates but allows him to enter. As he applies the salve, he admits he’s never seen a female warrior before and asks why she’s really here. Nesta’s reply is sharp, but Kars doesn’t flinch. ‘You’re not like them,’ he says quietly. ‘You’re not like anyone.’ Before she can respond, the sound of approaching footsteps sends him scurrying out the back. [Closes on: Nesta stands at the window of her hut, watching the last light fade from the mountains. The jar of salve sits on the table, untouched. Outside, the sound of laughter and clinking mugs drifts from the warriors’ barracks—laughter that doesn’t include her. She flexes her bandaged hand, the pain sharp and real. For the first time, she wonders what it would take to make them stop laughing entirely.]",
+    "Chapter 3 — The Language of Bruises: Nesta wakes before dawn, her body stiff and bruised from the previous day’s training. She examines her split knuckles and the darkening bruises along her ribs, refusing to acknowledge the pain as anything more than a distraction. She dresses in the training leathers, her movements deliberate, and steps outside to find the training grounds already bustling with warriors. The air is thick with the scent of sweat and snow, and the warriors’ stares are heavier than the morning mist. The warriors line up for the footrace, their laughter and jeers directed at Nesta as she takes her place at the starting line. Cassian is absent, and Devlon smirks as he explains the rules: the last to reach the summit will clean the barracks for a week. Nesta’s muscles scream in protest as she sprints, but she pushes harder, her pride refusing to let her finish last. She overtakes several warriors, her lungs burning, and crosses the finish line mid-pack. Devlon’s smirk fades as she doubles over, gasping for air, but the warriors’ laughter has shifted—less mocking, more speculative. Nesta is paired with Bellius again for sparring, his grin wide and vicious as he circles her. This time, he doesn’t hold back, his fists connecting with her ribs and jaw with brutal precision. Nesta stumbles but refuses to fall, her vision swimming as she lands a weak counterstrike. The warriors cheer Bellius on, their voices a distant roar in her ears. Just as Bellius is about to deliver a final, crushing blow, Cassian’s voice rings out, sharp and commanding. He orders Bellius to step back, his crimson Siphons flaring as he steps between them. Nesta’s knees buckle, and Cassian catches her before she hits the ground, his grip firm but careful. Nesta stumbles back to her hut, her body screaming in protest. She collapses onto the thin pallet, her breath coming in ragged gasps. The door creaks open, and Kars slips inside, holding a bundle of herbs and a fresh roll of bandages. He hesitates in the doorway, his eyes flicking to her bruised face. \"You don’t have to do this,\" he says quietly. Nesta glares at him, but her voice is weary. \"Yes, I do.\" Kars kneels beside her, his hands gentle as he applies the herbs to her wounds. He tells her about the warriors’ whispers—that some of them think she’s either incredibly brave or incredibly stupid. Nesta laughs, the sound bitter. \"What do you think?\" Kars meets her gaze, his expression serious. \"I think you’re the first person here who’s ever made Bellius bleed.\" Night falls, and the warriors’ barracks erupt into raucous laughter and the clinking of mugs. Nesta sits alone in her hut, her body aching, as the sounds of celebration drift through the thin walls. She tells herself she doesn’t care, but the laughter grates on her nerves. She steps outside, the cold air biting at her skin, and walks toward the training grounds. The snow crunches under her boots as she approaches the barracks, the noise inside growing louder. She peers through a crack in the shutters and sees Bellius and his friends gathered around a table, their faces flushed with drink. One of them holds up a length of rope, his grin widening. \"She’ll never see it coming,\" he says. Nesta’s blood runs cold. Nesta slips into the armory, her heart pounding as she scans the racks of weapons. She selects a dagger, its weight familiar in her hand, and tucks it into her boot. She’s about to leave when she hears footsteps outside. She ducks behind a stack of crates, her breath held, as the door creaks open. Cassian steps inside, his expression grim as he surveys the weapons. He pauses, his gaze lingering on the empty space where the dagger was. Nesta’s pulse spikes as he turns toward her hiding spot, but he doesn’t call her out. Instead, he reaches for a sword, his movements deliberate, and leaves without a word. Nesta exhales slowly, her mind racing. Why was he here? And why didn’t he stop her? Nesta lies on her pallet, fully dressed, her eyes fixed on the door. The sounds from the barracks have quieted, but she knows they’re coming. She hears the crunch of snow outside, the low murmur of voices. The door bursts open, and Bellius and two other warriors stumble inside, their grins wide and drunken. \"Thought you could hide, little mouse?\" Bellius slurs. Nesta doesn’t move, her hand resting on the dagger in her boot. The warriors advance, their laughter echoing in the small space. Nesta’s voice is calm, deadly. \"Leave. Now.\" Bellius lunges at her, and Nesta moves faster than she ever has before. The dagger flashes in the dim light, and Bellius howls as it sinks into his thigh. The other warriors freeze, their eyes wide. Nesta stands, the dagger dripping blood onto the floor. \"I said leave.\" [Closes on: Nesta stands in the center of her hut, the dagger still clutched in her hand. Outside, the wind howls through the mountains, but inside, there is only silence. She looks down at the blade, its edge glinting in the firelight, and smiles—a slow, dangerous smile. The warriors think they know what she is. But they have no idea what she’s becoming.]",
+    "Chapter 4 — The Blood That Binds: Nesta wakes to the sound of pounding on her hut door. Devlon stands outside, his expression grim, and informs her that Bellius has accused her of attacking him unprovoked. He orders her to appear before the warrior council at dawn to answer for her actions. Nesta refuses to show fear, but her stomach twists as she realizes the gravity of the accusation—this could mean exile from the training grounds, or worse. Nesta arrives at the warrior council, a circle of hardened warriors seated around a fire pit. Cassian stands at the edge of the circle, his arms crossed, his expression unreadable. Bellius is already there, his thigh bandaged, his face twisted in a smirk. Devlon acts as mediator, demanding Nesta explain herself. Nesta’s voice is steady as she recounts the events, but the warriors’ murmurs grow louder when she admits to using the dagger. Cassian steps forward, his voice cutting through the noise. He doesn’t deny her actions but argues that Bellius provoked her and that she acted in self-defense. The council debates her fate, their voices a mix of outrage and reluctant respect. Kars, seated at the back, speaks up in her defense, earning a glare from Devlon. Nesta returns to the training grounds, her hands empty of weapons but her mind sharp. The warriors watch her with a mix of curiosity and wariness, their earlier mockery replaced by something closer to caution. Cassian pulls her aside, his voice low. He warns her that the council’s decision is a temporary reprieve and that Bellius will not let this go. Nesta scoffs, asking why he cares. Cassian’s response is sharp: \"Because I’m not in the habit of letting my warriors get killed.\" Their argument is cut short when Devlon announces the day’s training: a mock battle, with Nesta assigned to the losing side as punishment. The warriors grin, eager to see her humiliated again, but Nesta’s lips curl into a smile. If they want a fight, she’ll give them one. The mock battle begins, and Nesta moves with a ferocity that surprises even herself. She uses the terrain to her advantage, dodging blows and landing strikes with precision. The warriors’ laughter fades as she holds her own, her body moving on instinct. Bellius, frustrated by her evasion, lunges at her with a snarl. Nesta sidesteps him and delivers a crushing blow to his ribs, sending him sprawling. The crowd erupts—not in laughter, but in stunned silence. Cassian watches from the sidelines, his arms crossed, but his eyes betray a flicker of pride. Devlon’s smirk fades as Nesta turns to face the next warrior, her breath steady, her expression cold. The battle ends with Nesta’s side declared the victors, though the warriors’ grumbling suggests they’re not entirely convinced it wasn’t a fluke. As Nesta leaves the battlefield, Kars falls into step beside her, his voice hushed. \"That was… impressive.\" Nesta doesn’t look at him. \"It was survival.\" Nesta retreats to her hut, her body trembling with exhaustion. She collapses onto her pallet, her breath coming in ragged gasps. The door creaks open, and Cassian steps inside, his expression unreadable. He tosses a small pouch onto the table—herbs for her wounds. Nesta doesn’t look at him. \"I don’t need your pity.\" Cassian’s voice is quiet. \"It’s not pity. It’s strategy. You won’t last long if you’re too injured to fight.\" Nesta finally meets his gaze, her voice sharp. \"Why do you care?\" Cassian hesitates, then sits on the edge of her pallet, his wings brushing against her leg. \"Because I see myself in you.\" Nesta scoffs, but Cassian continues. \"You think I don’t know what it’s like to be hated? To be told you don’t belong?\" His voice is raw, his eyes distant. \"I was the bastard son of an Illyrian whore. The warriors spat at my feet before they ever called me brother.\" Nesta’s breath catches. She’s never heard him speak like this—never seen him so vulnerable. Cassian stands abruptly, his voice returning to its usual gruffness. \"Get some rest. Tomorrow, we start again.\" He leaves without another word, the door clicking shut behind him. [Closes on: Nesta lies on her pallet, the weight of the day pressing down on her. Outside, the wind howls through the mountains, but inside, the silence is thick with unspoken questions. She flexes her bruised hands, the pain a reminder of what she’s capable of—and what she still has to prove. The spark of defiance from the battlefield still burns in her chest, but for the first time, it’s accompanied by something else: a flicker of hope. She doesn’t know what it means yet, but she knows one thing for certain—the war for her place in the Illyrian Mountains has only just begun.]",
+    "Chapter 5 — The Weight of the Sky: Nesta wakes before dawn, her body stiff and aching from the previous day’s mock battle. She moves through her morning routine in silence, ignoring the lingering pain in her ribs and the fresh bruises along her jaw. Outside, the training grounds are already alive with activity, the warriors’ voices a low hum of anticipation. Devlon announces the day’s challenge: a test of endurance, climbing the cliffs with weighted packs. Nesta’s stomach twists—she knows this is another attempt to break her. The climb begins, and Nesta struggles to keep pace with the warriors. The weight of the pack drags her down, her muscles screaming in protest. Bellius and his friends taunt her from above, their laughter echoing off the rocks. Nesta’s fingers slip on the icy stone, and she barely catches herself, her heart pounding. She glances down and sees Cassian watching from the ground, his expression unreadable. He doesn’t intervene, but his presence is a silent challenge—*prove them wrong*. Nesta reaches the halfway point, her breath ragged and her vision swimming. She pauses, pressing her forehead against the cold rock, and closes her eyes. For a moment, she allows herself to feel the exhaustion, the fear, the weight of every decision that led her here. Then she opens her eyes and keeps climbing. Below, Kars watches her with something like awe. He calls up to her, offering encouragement, but Nesta doesn’t respond. She doesn’t need his pity—or anyone’s. Nesta reaches the summit, her body trembling with exhaustion. The warriors who arrived before her fall silent as she pulls herself over the edge, her breath coming in ragged gasps. Bellius sneers, but his voice lacks its usual venom. *Lucky*, he mutters. Nesta doesn’t look at him. She unstraps the weighted pack and lets it fall to the ground, the sound echoing like a challenge. Cassian lands beside her, his wings flaring as he touches down. He doesn’t speak, but his eyes are on her, intense and unreadable. Nesta meets his gaze, her own defiant. *I did it*, she says, her voice steady. Cassian’s lips twitch, almost a smile. *You did.* The descent is slower, the warriors’ exhaustion evident in their sluggish movements. Nesta moves carefully, her muscles protesting every step. Halfway down, she slips on a patch of ice and nearly falls, but a hand grabs her arm, steadying her. She looks up to see Kars, his grip firm. *Careful*, he says quietly. Nesta pulls her arm free, her voice cold. *I don’t need your help.* Kars doesn’t flinch. *I know.* He steps back, but his eyes linger on her, thoughtful. Nesta continues her descent, her mind racing. Why did he help her? And why does it bother her so much? Nesta returns to her hut, her body screaming for rest. She collapses onto her pallet, her breath coming in ragged gasps. The door creaks open, and Cassian steps inside, holding a bowl of stew. Nesta doesn’t look at him. *I’m not hungry.* Cassian sets the bowl on the table. *Eat anyway.* Nesta glares at him, but her stomach betrays her with a loud growl. Cassian smirks. *Thought so.* Nesta snatches the bowl and takes a bite, her pride warring with her hunger. Cassian sits on the edge of her pallet, his wings brushing against her leg. *You did well today.* Nesta’s voice is sharp. *Don’t patronize me.* Cassian’s expression sobers. *I’m not. I mean it.* Nesta looks at him, her eyes searching his face. For the first time, she sees something in his gaze that isn’t pity or frustration—it’s *respect*. [Closes on: Nesta lies on her pallet, her body exhausted but her mind restless. Outside, the wind howls through the mountains, but inside, the silence is thick with unspoken questions. She flexes her bruised hands, the pain a reminder of what she’s survived—and what she’s capable of. For the first time, she doesn’t feel like a prisoner in the Illyrian Mountains. She feels like a warrior. And that terrifies her more than anything.]",
+    "Chapter 6 — The Silence Between Blows: Nesta wakes to the sound of distant drums and the acrid scent of smoke from the warriors' morning fires. Her body is a map of bruises, but she refuses to acknowledge the pain as she dresses. Outside, the warriors are gathered for a new challenge: a test of balance and precision on the narrow cliffside paths. Devlon announces that Nesta will be paired with Bellius, his grin sharp with anticipation. Nesta meets Bellius's gaze, her expression unreadable, but her hands clench at her sides. The cliffside path is slick with ice, and Nesta moves carefully, her focus razor-sharp. Bellius taunts her from behind, his voice a low growl. \"Scared, little mouse? One wrong step and you’ll be nothing but a stain on the rocks.\" Nesta ignores him, but her pulse spikes when her boot slips on a patch of ice. She catches herself, her breath steady, but Bellius laughs, the sound grating. Below, Cassian watches, his arms crossed, his expression unreadable. Nesta refuses to look at him—she won’t give him the satisfaction of seeing her struggle. The warriors’ murmurs turn to outright shock as Bellius lunges at Nesta, his fists raised. She sidesteps him, using the narrow path to her advantage, but Bellius is relentless. He lands a blow to her ribs, and Nesta gasps, her vision swimming. She retaliates with a sharp elbow to his jaw, but Bellius barely flinches. The path narrows further, and Nesta realizes she’s trapped—Bellius has her cornered. Below, Cassian’s voice rings out, sharp and commanding. \"Enough.\" Bellius hesitates, his chest heaving, but Nesta doesn’t wait. She drives her knee into his stomach, sending him sprawling onto the path. The warriors below erupt into cheers, but Nesta’s focus is on Bellius, who glares up at her, his face twisted in humiliation. Nesta returns to her hut, her body aching but her mind alight with something she can’t name. She collapses onto her pallet, her breath coming in ragged gasps. The door creaks open, and Kars slips inside, holding a fresh roll of bandages. He hesitates in the doorway, his eyes flicking to her bruised ribs. \"You did well today,\" he says quietly. Nesta doesn’t look at him. \"I didn’t need your approval.\" Kars kneels beside her, his hands gentle as he applies the bandages. \"I know. But you have it anyway.\" Nesta’s voice is sharp. \"Why?\" Kars meets her gaze, his expression serious. \"Because you’re the first person here who’s ever made me believe that maybe the rules aren’t as unbreakable as they seem.\" Night falls, and the warriors’ barracks erupt into laughter and the clinking of mugs. Nesta sits alone in her hut, her body aching, but she can’t bring herself to sleep. She steps outside, the cold air biting at her skin, and walks toward the training grounds. The snow crunches under her boots as she approaches the cliffs, the moonlight casting long shadows on the rocks. She hears footsteps behind her and turns to see Cassian, his wings folded tightly against his back. \"You should be resting,\" he says, his voice low. Nesta doesn’t look at him. \"I’m not tired.\" Cassian steps beside her, his gaze fixed on the horizon. \"You fought well today.\" Nesta’s voice is sharp. \"Don’t.\" Cassian exhales, his breath visible in the cold air. \"Don’t what?\" \"Don’t act like you care.\" Cassian is silent for a long moment. Then, quietly, \"I do.\" Nesta’s breath catches. She turns to face him, her voice barely above a whisper. \"Why?\" Cassian meets her gaze, his eyes dark in the moonlight. \"Because I see what you’re becoming. And it terrifies me.\" [Closes on: Nesta lies on her pallet, her body exhausted but her mind alight with something she can’t name. Outside, the wind howls through the mountains, but inside, the silence is thick with possibility. She flexes her bruised hands, the pain a reminder of what she’s capable of—and what she still has to prove. The storm inside her is building, and she knows, with a certainty that terrifies her, that it won’t be contained for much longer.]",
+    "Chapter 7 — The Storm Before the Calm: Nesta wakes to the sound of a storm raging outside her hut, the wind howling through the cracks in the walls. The training grounds are eerily quiet, the warriors huddled in their barracks. Devlon announces that today’s training is canceled due to the weather, but Nesta knows this is another test—one of endurance. She steps outside, the icy rain lashing at her skin, and begins a solitary run along the cliffside paths, her body still aching from yesterday’s fight. Bellius blocks Nesta’s path, his arms crossed, his voice dripping with mockery. He goads her, suggesting she’s too weak to survive the storm, let alone the training. Nesta doesn’t back down, her voice steady despite the cold. Their verbal sparring escalates, and Bellius shoves her, sending her sprawling into the mud. Nesta’s rage flares, but she forces herself to stand slowly, her eyes locked on his. The warriors, drawn by the commotion, gather at a distance, their expressions a mix of amusement and curiosity. Cassian lands beside them, his wings flaring, his voice a whip-crack of command. He orders Bellius to stand down, his gaze flicking to Nesta with an unreadable expression. Bellius, humiliated, spits at Nesta’s feet before stalking off, the warriors parting to let him pass. Cassian turns to Nesta, his voice low. \"You’re pushing too hard.\" Nesta’s response is sharp, her pride stinging. \"I don’t need your concern.\" Cassian’s jaw tightens, but he doesn’t argue. Instead, he tells her to return to her hut and rest, his tone leaving no room for debate. Nesta returns to her hut, her clothes soaked, her skin numb. She peels off her wet layers and wraps herself in a thin blanket, her mind racing. The door creaks open, and Kars steps inside, holding a steaming bowl of stew. He doesn’t speak, simply sets it on the table before turning to leave. Nesta calls after him, her voice quieter than she intends. \"Why?\" Kars pauses, his back to her. \"Because you’re not what they think you are.\" He leaves without another word, the door clicking shut behind him. Night falls, and the storm rages on. Nesta lies on her pallet, her body exhausted but her mind restless. The door opens again, and this time, it’s Cassian. He steps inside, his wings dripping rainwater onto the floor. Nesta sits up, her voice sharp. \"What do you want?\" Cassian doesn’t answer immediately. Instead, he kneels beside her pallet, his hands moving to her ribs, where Bellius’s blows landed. His touch is gentle, his voice quiet. \"You’re bruised.\" Nesta pulls away, her pride flaring. \"I can take care of myself.\" Cassian’s eyes darken. \"I know.\" He hesitates, then adds, \"But you don’t have to.\" [Closes on: Nesta lies on her pallet, her body aching but her mind alight with the memory of Cassian’s touch. Outside, the storm rages on, but inside, the silence is thick with the weight of what was almost said. She flexes her bruised hands, the pain a reminder of what she’s survived—and what she’s beginning to want. For the first time, the question isn’t just about surviving the Illyrian Mountains. It’s about what comes after.]",
+    "Chapter 8 — The First Spark: Nesta wakes before dawn, her body stiff from the previous day’s storm and Bellius’s attack. She moves through her morning routine in silence, ignoring the lingering ache in her ribs. Outside, the training grounds are slick with rain, the warriors already gathered for the day’s challenge: a test of strength and precision with weighted weapons. Devlon announces that Nesta will spar with Kars, a deliberate choice to test her resolve after her confrontation with Bellius. The sparring match begins, Kars moving with deliberate precision, testing Nesta’s defenses. Nesta counters his strikes, her movements sharp and controlled, but Kars is relentless, pushing her to her limits. The warriors watch in silence, their expressions unreadable. Bellius smirks from the sidelines, his arms crossed. Cassian stands apart, his gaze intense, his hands clenched at his sides. Devlon calls an end to the sparring match, declaring it a draw. Nesta’s breath is ragged, her body trembling with exertion, but her eyes are alight with something fierce. Kars steps back, his expression unreadable, but there’s a hint of admiration in his gaze. Bellius scoffs, his voice dripping with disdain. \"A draw? She barely touched you.\" Kars doesn’t look at him. \"She’s stronger than you think.\" Nesta collapses onto her pallet, her body screaming for rest. The door creaks open, and Cassian steps inside, holding a bowl of stew. Nesta doesn’t look at him. \"I don’t need your pity.\" Cassian sets the bowl on the table, his voice low. \"It’s not pity. It’s respect.\" Nesta’s breath catches, but she forces herself to meet his gaze. \"Respect doesn’t change anything.\" Cassian kneels beside her, his hands hovering over her bruised ribs. \"No. But it’s a start.\" Night falls, and Nesta lies on her pallet, her mind restless. She steps outside, the cold air biting at her skin, and walks toward the cliffs. The moonlight casts long shadows on the rocks, and she hears footsteps behind her. Kars emerges from the darkness, his expression serious. \"You fought well today,\" he says quietly. Nesta doesn’t look at him. \"I don’t need your approval.\" Kars steps beside her, his gaze fixed on the horizon. \"I know. But you have it anyway.\" [Closes on: Nesta stands on the cliffs, the wind whipping through her hair as she looks out at the Illyrian Mountains. The storm has passed, but the silence is thick with unspoken questions. She flexes her bruised hands, the pain a reminder of what she’s survived—and what she’s beginning to want. For the first time, the question isn’t just about surviving the Illyrian Mountains. It’s about what she’s fighting for.]",
+    "Chapter 9 — The Weight of the Blade: Nesta wakes before dawn, her body stiff from the previous day’s exertions. She moves through her morning routine in silence, ignoring the lingering bruises. Devlon announces today’s challenge: a test of endurance and precision with blunted blades, pairing Nesta with Bellius again. The warriors murmur in anticipation, but Nesta’s focus is razor-sharp as she steps onto the training grounds. The sparring match begins, Bellius moving with deliberate cruelty, his strikes aimed at Nesta’s bruised ribs. Nesta dodges and counters, her movements precise but cautious. Bellius taunts her, calling her weak, and Nesta’s rage flares. She lands a blow to his jaw, but Bellius retaliates with a brutal strike to her side, sending her sprawling. Cassian’s voice rings out, sharp with command, but Nesta refuses to yield. Cassian pulls Nesta aside after the match, his expression unreadable. He tells her she fought well but warns her not to let Bellius provoke her. Nesta’s pride stings, and she snaps at him, accusing him of caring more about her survival than her strength. Cassian’s gaze darkens, and for a moment, the air between them crackles with unspoken tension. He walks away without another word, leaving Nesta standing alone on the training grounds. Nesta returns to her hut, her body aching. Kars slips inside, holding a roll of bandages and a small jar of salve. He doesn’t speak, simply kneels beside her and begins tending to her wounds. Nesta watches him, her voice quiet. \"Why do you help me?\" Kars meets her gaze, his expression serious. \"Because you’re not the only one who’s tired of the rules.\" Night falls, and Nesta lies on her pallet, her mind restless. She steps outside, the cold air biting at her skin, and walks toward the cliffs. The moonlight casts long shadows on the rocks, and she hears footsteps behind her. Cassian emerges from the darkness, his wings folded tightly against his back. He doesn’t speak, simply stands beside her, his gaze fixed on the horizon. Nesta breaks the silence. \"You don’t have to stay.\" Cassian’s voice is quiet. \"I know.\" [Closes on: Nesta stands on the cliffs, the wind whipping through her hair as she looks out at the Illyrian Mountains. The storm inside her rages on, but for the first time, she wonders if it’s not just a force of destruction—if it might be the key to her survival. Below, Cassian watches her, his expression unreadable, but his presence a silent promise: he’s not going anywhere. And neither is she.]",
+    "Chapter 10 — The Edge of the Knife: Nesta wakes before dawn, her body stiff from Bellius’s latest attack. She moves through her morning routine with deliberate slowness, testing the limits of her bruised ribs. The training grounds are quiet, the warriors still asleep, but she knows today’s challenge will be worse. Devlon announces a new test: a knife-throwing competition, with Nesta paired against Bellius. The warriors gather, their murmurs a mix of anticipation and mockery. Cassian watches from the sidelines, his expression unreadable. The competition begins, Bellius’s throws precise and cruel, his knives landing dangerously close to Nesta’s feet. She forces herself to focus, her first throw wild and off-target. The warriors laugh, but Kars’s expression remains neutral. Cassian’s hands clench at his sides. Nesta’s second throw is better, but still misses the mark. Bellius taunts her, calling her weak, and Nesta’s rage simmers. She remembers Cassian’s warning—don’t let him provoke you—but the words feel hollow. Her third throw lands in the outer ring, silencing the crowd for a heartbeat. Devlon declares Bellius the winner, but Nesta refuses to acknowledge the result. She stalks off the training grounds, her body trembling with exhaustion and anger. Cassian follows, his voice low. \"You did better than I expected.\" Nesta whirls on him, her voice sharp. \"Don’t patronize me.\" Cassian’s jaw tightens. \"I’m not. But you’re letting him get in your head.\" Nesta’s laugh is bitter. \"And what if I am? What does it matter?\" Cassian steps closer, his voice a growl. \"It matters because you’re better than this.\" Nesta’s breath catches, but she forces herself to turn away, walking toward the cliffs. Nesta returns to her hut, her body aching. Kars is waiting inside, holding a whetstone and a fresh set of bandages. He doesn’t speak, simply gestures for her to sit. Nesta obeys, her pride stinging but her exhaustion winning. Kars begins sharpening a knife, the rhythmic scrape of stone on steel filling the silence. \"You’re not weak,\" he says finally. \"But you’re fighting the wrong battle.\" Nesta meets his gaze. \"What’s that supposed to mean?\" Kars sets the knife down, his expression serious. \"You’re fighting to prove you don’t care. But the real fight is learning to care again.\" Night falls, and Nesta lies on her pallet, her mind restless. She steps outside, the cold air biting at her skin, and walks toward the cliffs. Cassian is already there, his wings folded tightly against his back. He doesn’t turn as she approaches, but his voice cuts through the silence. \"You’re not the only one who’s lost something.\" Nesta freezes, her breath catching. Cassian continues, his voice raw. \"I’ve spent centuries fighting for people who don’t want to be saved. But you… you’re fighting to save yourself, even if you don’t realize it.\" Nesta’s hands tremble. \"I don’t need saving.\" Cassian finally turns to her, his gaze burning. \"No. But you need to stop pretending you don’t need *anything*.\" [Closes on: Nesta stands at the edge of the cliff, the wind howling around her. The storm inside her rages on, but for the first time, she wonders if it’s not just a force of destruction—if it might be the key to something more. Behind her, Cassian watches, his expression unreadable, but his presence a silent promise: *This isn’t over.*]",
+    "Chapter 11 — The Breaking Point: Nesta wakes before dawn, her body aching from the previous day’s knife-throwing competition. She moves through her morning routine in silence, ignoring the bruises and the weight of Bellius’s taunts. Devlon announces today’s challenge: a brutal endurance climb up the northern cliffs, with Nesta paired against Bellius once more. The warriors murmur in anticipation, but Nesta’s focus is razor-sharp as she steps onto the rocky path. The climb begins, Bellius taking the lead with brutal efficiency. Nesta follows, her muscles burning with every grip on the jagged rocks. Bellius deliberately dislodges stones, forcing Nesta to dodge or risk injury. She refuses to yield, matching his pace despite the pain. The warriors watch from below, their expressions a mix of awe and disdain. Cassian’s jaw is clenched, his wings twitching with restrained tension. Nesta reaches the halfway point, her body screaming in protest. Bellius is ahead, but his lead is narrowing. He turns, his expression darkening, and deliberately kicks a loose rock toward her face. Nesta ducks, but the rock grazes her temple, drawing blood. The warriors below gasp, and Cassian’s voice rings out, sharp with command. \"Enough!\" Bellius ignores him, smirking as Nesta wipes the blood from her face. She meets his gaze, her eyes burning with fury, and climbs faster. Devlon declares Nesta the winner, but Bellius refuses to acknowledge it. He storms off the training grounds, his fists clenched. The warriors disperse, their murmurs a mix of respect and resentment. Cassian approaches Nesta, his expression unreadable. \"You pushed too hard,\" he says quietly. Nesta whirls on him, her voice sharp. \"I didn’t ask for your concern.\" Cassian’s gaze darkens. \"No. But you *need* it.\" Nesta turns away, her body trembling with exhaustion and anger. Nesta collapses onto her pallet, her body screaming for rest. Kars slips inside, holding a bowl of stew and a jar of salve. He doesn’t speak, simply kneels beside her and begins tending to her wounds. Nesta watches him, her voice quiet. \"Why do you keep helping me?\" Kars meets her gaze, his expression serious. \"Because you’re not the only one who’s tired of being told what to do.\" Nesta’s breath catches, but she doesn’t respond. Night falls, and Nesta steps outside, the cold air biting at her skin. She walks toward the cliffs, her thoughts a storm. Cassian emerges from the darkness, his wings folded tightly against his back. He doesn’t speak, simply stands beside her, his gaze fixed on the horizon. Nesta breaks the silence. \"You don’t have to stay.\" Cassian’s voice is quiet. \"I know.\" The wind howls around them, the tension between them thick with unspoken words. Nesta’s words hang in the air between them, the silence heavy with meaning. Cassian steps closer, his voice raw. \"Then let someone help you.\" Nesta’s hands tremble, her chest tight with emotion. She wants to lash out, to push him away, but the words die on her lips. Instead, she turns and walks back toward her hut, her body aching with exhaustion. Cassian doesn’t follow, but his gaze lingers on her until she disappears into the darkness. [Closes on: Nesta lies on her pallet, her mind racing. For the first time, the storm inside her isn’t just rage—it’s something else, something she can’t name. The weight of Cassian’s words lingers, a silent promise that the battle between them is far from over.]",
+    "Chapter 12 — The First Crack: Nesta wakes before dawn, her body stiff and bruised from the endurance climb. She moves through her morning routine in silence, ignoring the lingering pain. Devlon announces today’s challenge: a mock battle in the mud pits, with Nesta paired against Bellius and two other warriors. The warriors murmur in anticipation, their eyes gleaming with malice. Nesta steps onto the training grounds, her jaw set, but her hands tremble slightly. The mock battle begins, Bellius and his allies moving with brutal efficiency. Nesta dodges and counters, her movements precise but cautious. Bellius taunts her, calling her weak, and Nesta’s rage flares. She lands a blow to Bellius’s ribs, but he retaliates with a brutal strike to her side, sending her sprawling into the mud. The warriors laugh, but Kars’s expression remains neutral. Cassian’s voice rings out, sharp with command, but Nesta refuses to yield. Cassian pulls Nesta aside after the match, his expression stormy. He tells her she fought well but warns her that Bellius is gunning for her. Nesta snaps at him, accusing him of caring more about her survival than her strength. Cassian’s gaze darkens, and for a moment, the air between them crackles with unspoken tension. He steps closer, his voice low. \"You think I don’t see what you’re doing? You’re not just fighting them—you’re fighting *yourself*.\" Nesta’s breath catches, but she forces herself to turn away, walking toward the cliffs. Nesta returns to her hut, her body aching. Kars is waiting inside, holding a roll of bandages and a jar of salve. He doesn’t speak, simply kneels beside her and begins tending to her wounds. Nesta watches him, her voice quiet. \"Why do you keep helping me?\" Kars meets her gaze, his expression serious. \"Because you’re not the only one who’s tired of being told what to do. But you’re the only one who’s *fighting* it.\" Nesta’s breath hitches, but she doesn’t respond. Night falls, and she steps outside, the cold air biting at her skin. Nesta walks toward the cliffs, her thoughts a storm. Cassian emerges from the darkness, his wings folded tightly against his back. He doesn’t speak, simply stands beside her, his gaze fixed on the horizon. Nesta breaks the silence. \"You don’t have to stay.\" Cassian’s voice is quiet, raw. \"I know. But I *want* to.\" Nesta’s hands tremble, her chest tight with emotion. She wants to lash out, to push him away, but the words die on her lips. Instead, she turns to him, her voice barely a whisper. \"Why?\" Cassian meets her gaze, his eyes burning. \"Because I see you, Nesta. And I’m not going anywhere.\" [Closes on: Nesta lies on her pallet, her body aching, her mind racing. The storm inside her is no longer just rage—it’s something else, something she can’t name. Cassian’s words echo in her mind, a silent challenge. Outside, the wind howls, carrying the distant sound of whispers. The first crack in her armor has formed. And for the first time, she wonders if it might be the key to breaking free.]",
+    "Chapter 13 — The Weight of the Sky: Nesta wakes before dawn, her body stiff from the mock battle. She moves through her morning routine in silence, ignoring the bruises and the weight of Cassian’s words. Devlon announces today’s challenge: a winged endurance race, where Nesta must carry a weighted pack while the warriors fly. The warriors murmur in anticipation, their eyes gleaming with malice. Nesta steps forward, her jaw set, but her hands tremble with exhaustion. The race begins, the warriors taking to the skies with ease. Nesta runs, her muscles burning with every step. The weighted pack digs into her shoulders, and the warriors above laugh as they circle her like vultures. Bellius dives low, his wings stirring up dust in her face, forcing her to stumble. Nesta grits her teeth and pushes forward, her breath ragged. Cassian watches from the sidelines, his expression unreadable, but his hands clench at his sides. The race ends, Devlon declaring Bellius the winner. Nesta staggers to the finish line, her body trembling with exhaustion. The warriors disperse, their murmurs a mix of respect and resentment. Cassian approaches Nesta, his voice low. \"You pushed too hard.\" Nesta whirls on him, her voice sharp. \"I didn’t ask for your concern.\" Cassian’s gaze darkens. \"No. But you *need* it.\" Nesta turns away, her body aching, but her pride stinging worse. Nesta returns to her hut, her body screaming for rest. Kars is waiting inside, holding a jar of salve and a roll of bandages. He doesn’t speak, simply gestures for her to sit. Nesta obeys, her exhaustion winning out over her pride. Kars begins tending to her wounds, his voice quiet. \"You’re not weak. But you’re fighting the wrong battle.\" Nesta meets his gaze, her voice a whisper. \"What’s the right one?\" Kars sets the salve down, his expression serious. \"Learning to trust yourself.\" Night falls, and Nesta steps outside, the cold air biting at her skin. She walks toward the cliffs, her thoughts a storm. Cassian emerges from the darkness, his wings folded tightly against his back. He doesn’t speak, simply stands beside her, his gaze fixed on the horizon. Nesta breaks the silence, her voice barely a whisper. \"Why do you care?\" Cassian meets her gaze, his eyes burning. \"Because I see what you’re capable of. And I’m not going to let you throw it away.\" Nesta’s breath catches, her chest tight with emotion. She wants to lash out, to push him away, but the words die on her lips. [Closes on: Nesta stands at the edge of the cliff, the wind howling around her. Cassian’s hand is still warm against hers, his presence a silent promise. The storm inside her rages on, but for the first time, she wonders if it might not be a force of destruction—if it might be the key to something more. Behind her, Cassian watches, his expression unreadable, but his gaze burning with a question: *Are you ready to let me in?*]",
+    "Chapter 14 — The First Spark: Nesta wakes before dawn, her body aching from the winged endurance race. She moves through her morning routine in silence, ignoring the bruises and the weight of Kars’ words from the night before. Devlon announces today’s challenge: a sparring match with live blades, paired against Bellius. The warriors murmur in anticipation, their eyes gleaming with malice. Nesta steps onto the training grounds, her jaw set, but her hands tremble with exhaustion and fear. The sparring match begins, Bellius moving with brutal efficiency. Nesta counters his strikes, her movements precise but cautious. Bellius taunts her, calling her weak, and Nesta’s rage flares. She lands a glancing blow to his side, but he retaliates with a vicious slash toward her throat. Nesta barely dodges, her breath ragged. The warriors watch, their expressions a mix of awe and disdain. Cassian’s voice rings out, sharp with command, but Nesta refuses to yield, her pride driving her forward. Cassian pulls Nesta aside after the match, his expression stormy. He tells her she fought well but warns her that Bellius is not just trying to humiliate her—he’s trying to *break* her. Nesta snaps at him, accusing him of caring more about her survival than her strength. Cassian’s gaze darkens, and for a moment, the air between them crackles with unspoken tension. He steps closer, his voice low. \"You think I don’t see what you’re doing? You’re not just fighting them—you’re fighting *me*.\" Nesta’s breath catches, but she forces herself to turn away, walking toward the cliffs. Nesta returns to her hut, her body aching. Kars is waiting inside, holding a roll of bandages and a jar of salve. He doesn’t speak, simply kneels beside her and begins tending to her wounds. Nesta watches him, her voice quiet. \"Why do you keep helping me?\" Kars meets her gaze, his expression serious. \"Because you’re not the only one who’s tired of being told what to do. But you’re the only one who’s *fighting* back.\" Nesta’s breath hitches, but she doesn’t respond. Outside, the sound of the warriors’ laughter echoes through the camp, a reminder of the battle she’s still fighting. Night falls, and Nesta steps outside, the cold air biting at her skin. She walks toward the cliffs, her thoughts a storm. Cassian emerges from the darkness, his wings folded tightly against his back. He doesn’t speak, simply stands beside her, his gaze fixed on the horizon. Nesta breaks the silence, her voice barely a whisper. \"Why do you care?\" Cassian meets her gaze, his eyes burning. \"Because I see what you’re capable of. And I’m not going to let you throw it away.\" Nesta’s hands tremble, her chest tight with emotion. She wants to lash out, to push him away, but the words die on her lips. Nesta turns to leave, but Cassian steps in front of her, blocking her path. His voice is low, urgent. \"Nesta, wait. There’s something you need to know.\" He tells her about the whispers among the warriors—how some are beginning to see her as more than an outsider, how others are growing more dangerous in their resentment. He warns her that Bellius is planning something, and that she needs to be ready. Nesta’s expression darkens, her voice sharp. \"I don’t need your warnings, Cassian. I can handle myself.\" Cassian’s gaze hardens. \"I know you can. But you don’t have to do it alone.\" Cassian steps closer, his voice raw. \"Because I need you to *see* me, Nesta. Not as your jailer. Not as your enemy. As someone who—\" He cuts himself off, his jaw clenching. Nesta’s heart pounds, her mind racing. Before she can respond, a shout echoes through the camp. They turn to see a group of warriors gathered around the training grounds, their voices raised in anger. Cassian’s expression darkens. \"Stay here.\" He takes off into the night, his wings cutting through the darkness. Nesta hesitates, then follows, her instincts driving her forward. Nesta pushes through the crowd, her voice sharp. \"What happened?\" The young warrior looks up at her, his face pale with pain. Bellius smirks. \"He fell. Just like you always do.\" Nesta’s gaze darkens, her instincts taking over. She kneels beside the young warrior, her hands moving quickly to assess his injury. The warriors murmur, their expressions a mix of shock and disbelief. Cassian steps forward, his voice low. \"Nesta—\" She ignores him, her focus razor-sharp. She tells the young warrior to hold still, then snaps his arm back into place with a swift, precise movement. The warrior gasps, but the pain in his eyes eases. The crowd falls silent, their murmurs dying away. [Closes on: Nesta stands at the edge of the training grounds, the young warrior’s grateful gaze on her. The warriors’ murmurs fade into the night, but their eyes linger on her, a mix of respect and wariness. Cassian watches her, his expression unreadable, but his gaze burning with a question: *Who are you, really?* Behind them, Bellius slips into the shadows, his fists clenched, his mind already plotting his next move. The first spark has been lit—and the fire it ignites will change everything.]",
+    "Chapter 15 — The Breaking Point: Nesta wakes before dawn, her body stiff from the previous day’s sparring. She moves through her morning routine in silence, ignoring the bruises and the weight of the young warrior’s grateful gaze still lingering in her mind. Devlon announces today’s challenge: a brutal endurance test—carrying a boulder up the mountain while the warriors fly overhead, pelting her with rocks. The warriors murmur in anticipation, their eyes gleaming with malice. Nesta steps forward, her jaw set, but her hands tremble with exhaustion. The endurance test begins, the warriors taking to the skies with ease. Nesta struggles up the mountain, the boulder’s weight crushing her. Bellius dives low, hurling a rock at her temple. She stumbles but doesn’t fall. The warriors’ taunts grow louder, but Kars remains silent, his expression unreadable. Cassian watches from the sidelines, his hands clenched into fists, his jaw tight with barely contained rage. Cassian’s voice cuts through the warriors’ laughter, sharp with command. He orders Bellius to stand down, but the warrior ignores him, stepping closer to Nesta. Nesta forces herself to her feet, her breath ragged, and meets Bellius’s gaze. She doesn’t speak, but her silence is more defiant than any words. Cassian’s wings flare, his Siphons glowing crimson, but he doesn’t move. The tension between them crackles, the warriors watching in uneasy silence. Cassian pulls Nesta aside after the test, his voice low and urgent. He tells her she pushed too hard, that she’s risking serious injury. Nesta snaps at him, accusing him of caring more about her survival than her strength. Cassian’s gaze darkens, and he steps closer, his voice raw. \"You think I don’t see what you’re doing? You’re not just fighting them—you’re fighting *me*. And you’re losing.\" Nesta’s breath catches, her chest tight with emotion. She wants to lash out, but the words die on her lips. Nesta returns to her hut, her body screaming for rest. Kars is waiting inside, holding a jar of salve and a roll of bandages. He doesn’t speak, simply gestures for her to sit. Nesta obeys, her exhaustion winning out over her pride. As Kars tends to her wounds, he speaks quietly. \"You’re not weak. But you’re fighting the wrong battle.\" Nesta meets his gaze, her voice sharp. \"What’s the right one?\" Kars hesitates, then says, \"Learning to trust someone other than yourself.\" Night falls, and Nesta steps outside, the cold air biting at her skin. She walks toward the cliffs, her thoughts a storm. Cassian emerges from the darkness, his wings folded tightly against his back. He doesn’t speak, simply stands beside her, his gaze fixed on the horizon. Nesta breaks the silence, her voice barely audible. \"Why do you stay?\" Cassian meets her gaze, his eyes burning. \"Because I see you, Nesta. And I’m not going anywhere.\" Cassian steps closer, his voice raw. \"Then you’ll keep fighting. And you’ll keep losing.\" Nesta’s hands clench into fists, her nails digging into her palms. Before she can respond, a shout echoes through the camp. They turn to see a group of warriors gathered around the training grounds, their voices raised in anger. Cassian’s expression darkens. \"Stay here.\" He takes off into the night, his wings cutting through the darkness. Nesta hesitates, then follows, her instincts driving her forward. Nesta’s gaze darkens, her instincts taking over. She steps forward, her voice sharp. \"Get off him.\" Bellius turns to her, his smirk widening. \"Or what? You’ll save him like you saved the last one?\" The warriors murmur, their expressions a mix of amusement and unease. Cassian steps forward, his voice low and dangerous. \"Bellius. Stand down.\" Bellius ignores him, his focus on Nesta. \"You’re not one of us. You never will be.\" Nesta doesn’t flinch. \"And you’re a coward.\" The crowd falls silent, the warriors watching in shock. Bellius gasps for breath, his face contorted with pain and humiliation. Nesta stands over him, her chest heaving, her gaze unyielding. Cassian steps beside her, his voice low. \"Enough.\" Bellius forces himself to his feet, his voice a snarl. \"This isn’t over.\" He storms off into the night, the warriors parting to let him pass. The young warrior looks up at Nesta, his voice weak but grateful. \"Thank you.\" [Closes on: Nesta stands at the edge of the training grounds, the cold wind biting at her skin. Cassian’s gaze burns into hers, his question hanging in the air: *Are you ready to let me in?* Behind them, Bellius watches from the shadows, his fists clenched, his mind already plotting his next move. The first spark has been lit—and the fire it ignites will consume them all.]",
+    "Chapter 16 — The Unspoken Truth: Nesta wakes before dawn, her body aching from Bellius’s attack. She moves through her morning routine in silence, ignoring the bruises and the weight of the previous night’s confrontation. Devlon announces today’s challenge: a solo survival test—Nesta must navigate the treacherous mountain passes alone, without food or weapons, while the warriors track her from the skies. Nesta moves through the mountains, her senses heightened. She avoids pitfalls and hidden traps set by the warriors, her instincts guiding her. Bellius dives low, his wings stirring up debris, but Nesta evades him, her movements precise. The warriors’ taunts grow fainter as she distances herself, but their presence lingers like a storm cloud. Kars emerges from the shadows, his expression unreadable. He doesn’t speak, simply hands Nesta a waterskin and a small bundle of food. Nesta takes them, her voice quiet. \"Why?\" Kars meets her gaze, his voice low. \"Because you’re not the only one who’s tired of being told what to do.\" He disappears into the rocks, leaving Nesta alone with her thoughts. Nesta quickens her pace, her instincts driving her forward. She reaches a cliff’s edge, the drop below sheer and deadly. The warriors’ shadows darken the sky above her, their voices raised in mockery. Bellius dives low, his wings stirring up dust, but Nesta doesn’t flinch. She meets his gaze, her voice sharp. \"Is this the best you’ve got?\" Bellius snarls, but Nesta turns away, stepping off the cliff’s edge—not to her death, but onto a hidden ledge below. Night falls, and Nesta returns to the training camp, her body trembling with exhaustion. The warriors murmur as she passes, their expressions a mix of respect and resentment. Cassian steps forward, his voice low. \"You survived.\" Nesta meets his gaze, her voice sharp. \"I did.\" Cassian steps closer, his voice raw. \"But at what cost?\" Nesta’s breath catches, her chest tight with emotion. She wants to lash out, to push him away, but the words won’t come. A shout echoes through the camp, cutting Cassian off. They turn to see a group of warriors gathered around a fire, their voices raised in anger. Bellius stands at the center, his expression dark. \"She cheated,\" he snarls. \"She didn’t follow the rules.\" The warriors murmur in agreement, their gazes turning toward Nesta. Cassian’s expression hardens, his voice sharp. \"She survived. That’s all that matters.\" Bellius steps forward, his voice a growl. \"This isn’t over.\" Nesta retreats to her hut, her body screaming for rest. She collapses onto her bed, her breath ragged, her mind racing. The door creaks open, and Cassian steps inside, his expression stormy. \"You can’t keep doing this,\" he says, his voice low. \"You can’t keep pushing everyone away.\" Nesta meets his gaze, her voice sharp. \"I don’t need your permission.\" Cassian steps closer, his voice raw. \"No. But you *need* someone.\" Nesta’s breath catches, her chest tight with emotion. She wants to deny it, but the truth is there, burning in her chest. [Closes on: Nesta lies in the darkness, her body aching, her mind racing. Cassian’s words echo in her ears: *Let me in.* She wants to say yes, but the fear is too great. Outside, the wind howls, carrying the sound of distant laughter—the warriors, plotting their next move. Nesta closes her eyes, her heart pounding. The storm inside her rages on, but for the first time, she wonders if it might not be a force of destruction—if it might be the key to something more. And as she drifts into sleep, one question lingers: *What am I fighting for?*]",
+    "Chapter 17 — The Storm Before the Silence: Nesta wakes before dawn, her body stiff and aching from the solo survival test. She moves through her morning routine in silence, ignoring the bruises and the weight of Cassian’s unanswered question lingering in her mind. Devlon announces today’s challenge: a brutal hand-to-hand combat match against Bellius, with no weapons allowed. The warriors murmur in anticipation, their eyes gleaming with malice. Nesta steps onto the training grounds, her jaw set, but her hands tremble with exhaustion and fear. The match begins, Bellius moving with brutal efficiency. Nesta counters his strikes, her movements precise but cautious. Bellius taunts her, calling her weak, and Nesta’s rage flares. She lands a solid blow to his jaw, but he retaliates with a vicious kick to her ribs. Nesta stumbles, her breath knocked out of her. The warriors cheer, their voices a cacophony of bloodlust. Cassian watches from the sidelines, his hands clenched into fists, his jaw tight with barely contained rage. Bellius lunges, his movements faster and more vicious. Nesta evades his strikes, but her exhaustion slows her. She lands a glancing blow to his side, but he retaliates with a brutal elbow to her temple. Nesta collapses, her vision swimming. The warriors roar, their voices a wall of sound. Cassian steps forward, his Siphons glowing crimson, but Devlon’s voice cuts through the chaos. \"No interference.\" Cassian freezes, his gaze burning into Bellius’s back. A sharp whistle cuts through the silence. The warriors turn to see Kars stepping onto the training grounds, his expression unreadable. He doesn’t speak, simply stands between Nesta and Bellius, his gaze locked on the warrior. Bellius hesitates, his fist still raised. \"Move,\" he snarls. Kars doesn’t flinch. \"Enough.\" The warriors murmur, their expressions a mix of shock and unease. Cassian steps forward, his voice low. \"Kars is right. The match is over.\" Bellius’s gaze darkens, but he lowers his fist, stepping back. Nesta forces herself to her feet, her breath ragged, her gaze locked on Kars. Nesta retreats to her hut, her body screaming for rest. She collapses onto her bed, her breath ragged, her mind racing. The door creaks open, and Cassian steps inside, his expression stormy. \"You could have been killed,\" he says, his voice low. Nesta meets his gaze, her voice sharp. \"But I wasn’t.\" Cassian steps closer, his voice raw. \"What will it take for you to see that this isn’t a game?\" Nesta’s breath catches, her chest tight with emotion. She wants to deny it, but the truth is there, burning in her chest. Cassian’s gaze softens, his voice barely a whisper. \"Let me in, Nesta.\" Nesta pushes through the crowd, her breath catching as she sees Bellius standing over a young warrior, his boot pressed to the boy’s chest. The young warrior gasps for breath, his face contorted with pain. Bellius’s gaze darkens as he sees Nesta. \"This doesn’t concern you,\" he snarls. Nesta steps forward, her voice sharp. \"Get off him.\" Bellius’s smirk widens. \"Or what? You’ll save him like you saved the last one?\" The warriors murmur, their expressions a mix of amusement and unease. Cassian steps forward, his voice low and dangerous. \"Bellius. Stand down.\" [Closes on: Nesta stands at the edge of the training grounds, the cold wind biting at her skin. Cassian’s gaze burns into hers, his question hanging in the air: *Are you ready to let me in?* Behind them, Bellius watches from the shadows, his fists clenched, his mind already plotting his next move. The storm is coming—and when it breaks, nothing will be the same.]",
+    "Chapter 18 — The Weight of the Sky: Nesta wakes before dawn, her body stiff from the previous day’s fight. She moves through her morning routine in silence, ignoring the bruises and the weight of Cassian’s unspoken question. The camp is eerily quiet, the warriors’ usual taunts absent. Devlon announces a new challenge: a race to the highest peak, where a flag awaits the first to reach it. The catch—Nesta must climb while the warriors fly, and they are under no obligation to play fair. Nesta begins her climb, her fingers numb from the cold. The warriors dive-bomb her, hurling rocks and insults. She evades most, but a well-aimed stone grazes her temple, drawing blood. Kars watches from a distance, his expression unreadable. Cassian stands at the base, his wings twitching with the urge to intervene, but Devlon’s warning glare keeps him grounded. Nesta reaches a narrow ledge, her muscles screaming. She pauses to catch her breath, and Kars lands beside her, offering a waterskin. She takes it without a word, her suspicion evident. Kars speaks quietly, \"They’re not just testing you. They’re testing *him*.\" Nesta follows his gaze to Cassian, who is arguing with Devlon. Before she can respond, Bellius swoops in, knocking Kars off the ledge. Nesta lunges for Kars’s hand, catching him just in time, but the effort costs her precious energy. Nesta pushes forward, her body trembling with exhaustion. She reaches the peak just as Bellius lands, the flag already in his hand. He smirks, tossing it to her. \"For your effort.\" She takes it, her fingers curling around the fabric. Below, Cassian watches, his expression unreadable. The warriors murmur, their respect for Nesta’s endurance warring with their loyalty to Bellius. Devlon declares the challenge over, but Bellius steps closer to Nesta, his voice a low growl. \"This isn’t over.\" Nesta returns to the camp, her body aching. The warriors part to let her pass, their expressions a mix of awe and resentment. Cassian follows her to her hut, his voice low. \"You didn’t have to do that.\" Nesta whirls on him, her voice sharp. \"Yes, I did.\" Cassian steps closer, his voice raw. \"Why?\" Nesta’s breath catches, her chest tight. She wants to tell him it’s because she refuses to be broken, but the words won’t come. Instead, she turns away, her voice barely a whisper. \"Because I’m tired of losing.\" Night falls, and Nesta steps outside, the cold air biting at her skin. She walks toward the cliffs, her thoughts a storm. Cassian emerges from the shadows, his wings folded tightly against his back. He doesn’t speak, simply stands beside her. Nesta breaks the silence, her voice barely audible. \"What if I can’t do this?\" Cassian meets her gaze, his eyes burning. \"Then you’ll fail. But you’ll fail knowing you tried.\" Nesta’s hands clench into fists. \"And what if I don’t want to try?\" Cassian steps closer, his voice raw. \"Then you’ll spend the rest of your life wondering what could have been.\" Nesta arrives at the fire to see Bellius standing over Kars, a dagger pressed to his throat. The warriors are divided, some shouting for Bellius to stop, others egging him on. Cassian steps forward, his voice a command. \"Enough.\" Bellius doesn’t move, his gaze locked onto Nesta. \"This is your fault,\" he snarls. \"You’ve turned them against us.\" Nesta steps forward, her voice steady. \"No. You did that all by yourself.\" The warriors fall silent, their gazes shifting between Nesta and Bellius. Cassian’s wings flare, his Siphons glowing crimson. \"Stand down, Bellius.\" [Closes on: Nesta stands at the edge of the firelight, her breath visible in the cold air. Cassian’s gaze burns into hers, his question unspoken but clear: *What now?* Behind them, the shadows of the mountains loom, a reminder of the storm that’s coming—and the choice Nesta must make. Does she run, or does she fight?]",
+    "Chapter 19 — The Knife in the Dark: Nesta wakes in the pre-dawn darkness, her body stiff from the previous day’s climb. The camp is unnaturally quiet, the usual morning bustle absent. She steps outside her hut to find the warriors gathered in small, hushed groups, their gazes flicking toward her before darting away. Kars approaches, his expression grim, and warns her to stay alert—Bellius is not done with her. Devlon announces the day’s challenge: a mock battle in the canyon, where Nesta will face off against three warriors at once. The rules are simple—no killing, but anything else goes. The warriors murmur in approval, their eyes gleaming with anticipation. Cassian watches from the sidelines, his jaw clenched, but says nothing. Nesta steps onto the training grounds, her body still aching, and realizes this is not a test—it’s a trap. The battle begins, and Nesta is immediately outnumbered. The three warriors—Bellius and two of his allies—move in sync, their strikes brutal and precise. Nesta evades the worst of it, but a well-placed kick sends her sprawling. Bellius looms over her, his voice a low growl. \"This is what happens to outsiders who don’t know their place.\" Nesta rolls to her feet, her vision swimming, and lands a solid blow to his ribs. The warriors watching murmur in surprise, but Bellius only laughs, his eyes burning with malice. The battle rages on, Nesta’s exhaustion slowing her movements. Bellius lands a vicious blow to her side, and she collapses to her knees, gasping for breath. The warriors watching shift uncomfortably, their bloodlust waning. Cassian steps forward, his Siphons glowing, but Devlon holds up a hand. \"No interference,\" he repeats, his voice cold. Nesta forces herself to her feet, her legs trembling. Bellius circles her, his voice a whisper. \"You should have stayed in the gutter where you belong.\" Night falls, and the camp settles into an uneasy silence. Nesta retreats to her hut, her body screaming for rest. She collapses onto her bed, her breath ragged, but sleep eludes her. The sound of footsteps outside her door makes her tense. She reaches for the dagger Cassian gave her, her fingers curling around the hilt. The door creaks open, and a shadow fills the frame. Nesta lunges— Nesta fights back, her movements fueled by adrenaline and rage. The assassin is skilled, but Nesta’s desperation gives her an edge. She lands a solid kick to their knee, and the figure stumbles. A shout echoes through the camp—Cassian, his voice a roar. The assassin hesitates, then melts into the darkness. Cassian bursts into the hut, his Siphons glowing crimson, his gaze wild. \"Are you hurt?\" Nesta shakes her head, her breath coming in gasps. Cassian’s expression darkens as he takes in the blood on her hands and the dagger on the floor. \"Who was it?\" Nesta’s voice is steady. \"I don’t know. But they weren’t here to talk.\" Cassian leads Nesta to the central fire, where the warriors have gathered. Devlon stands at the center, his expression stormy. \"Who did this?\" he demands. The warriors shift uneasily, their gazes darting between Bellius and Nesta. Bellius steps forward, his voice smooth. \"It wasn’t one of us.\" Nesta meets his gaze, her voice sharp. \"Liar.\" The warriors murmur, their loyalty divided. Cassian’s voice cuts through the noise. \"Enough. This isn’t about blame. It’s about survival.\" He turns to Devlon, his voice low. \"We need to act. Now.\" [Closes on: Nesta stands at the edge of the firelight, her gaze locked onto the shadows beyond the camp. Cassian’s voice is a low rumble beside her. \"We’ll find out who did this.\" Nesta doesn’t look at him, her voice barely audible. \"I know.\" The wind howls through the mountains, carrying the sound of distant wings—someone is watching. And they’re not done yet.]",
+    "Chapter 20 — The Blood That Binds: Nesta wakes before dawn, her body stiff and bruised from the assassination attempt. She moves through her morning routine in silence, her mind replaying the fight in her hut. The camp is tense, the warriors watching her with a mix of fear and curiosity. Cassian finds her at the training grounds, his expression unreadable, and tells her the day’s challenge has been canceled—Devlon has called a meeting instead. The warriors gather in the central clearing, their murmurs dying as Devlon steps forward. He announces that an investigation will be conducted into the attack on Nesta, but his tone is dismissive, implying it was likely an outsider. Nesta challenges him, her voice sharp, and the warriors shift uncomfortably. Bellius smirks, his gaze locked onto hers. Cassian steps forward, his voice a command. \"This wasn’t an outsider. And we will find out who did this.\" After the meeting, Kars approaches Nesta, his expression grim. He tells her that Bellius’s faction is planning something—something bigger than an assassination attempt. Nesta asks why he’s telling her, and Kars meets her gaze, his voice steady. \"Because I’m tired of watching innocents get hurt.\" Cassian watches from a distance, his jaw clenched. Nesta turns to him, her voice low. \"We need to act. Before they do.\" Nesta and Cassian argue in the privacy of her hut. Cassian insists she must leave the camp for her own safety, but Nesta refuses, her voice sharp. \"I’m not running. Not again.\" Cassian’s frustration boils over, his voice rising. \"This isn’t about running. It’s about surviving.\" Nesta meets his gaze, her voice steady. \"Then let me survive on my own terms.\" The tension between them crackles, charged with unspoken emotion. Nesta seeks out Devlon, demanding to be included in the investigation. Devlon refuses, his voice dismissive, but Nesta doesn’t back down. \"You want to find the traitor? Then let me help.\" Devlon’s gaze darkens, but before he can respond, Cassian steps forward, his voice a command. \"She’s right. We need all the help we can get.\" Devlon relents, but his warning is clear: \"If she gets in the way, she’s on her own.\" Nesta and Cassian begin their investigation, questioning the warriors one by one. Most are evasive, but a few offer cryptic warnings. Nesta notices a pattern—those who support Bellius are the most hostile, while those who remain neutral are more willing to talk. Cassian watches her work, his expression unreadable. \"You’re good at this,\" he says quietly. Nesta doesn’t look at him, her voice sharp. \"I’ve had a lot of practice.\" Night falls, and Nesta returns to her hut, exhausted. She collapses onto her bed, her mind racing. The door creaks open, and Cassian steps inside, his expression stormy. \"We’re missing something,\" he says. Nesta sits up, her voice sharp. \"What?\" Cassian hesitates, then meets her gaze. \"The attacker wasn’t just trying to kill you. They were trying to send a message.\" Nesta’s breath catches. \"To who?\" Cassian’s voice is a whisper. \"To all of us.\" [Closes on: Nesta stands at the edge of the training grounds, the cold wind biting at her skin. Cassian’s voice is a low rumble beside her. \"We’ll find them.\" Nesta doesn’t look at him, her gaze locked onto the shadows beyond the camp. \"I know.\" The wind howls through the mountains, carrying the sound of distant wings—someone is watching. And they’re not done yet.]",
+    "Chapter 21 — The Storm Before the Silence: Nesta wakes to the sound of distant thunder, the camp already stirring with unease. The warriors avoid her gaze, their whispers dying as she passes. Cassian is absent—sent on a reconnaissance mission by Devlon to scout the nearby cliffs for signs of the assassin. Nesta trains alone, her movements sharp and precise, but her mind is elsewhere. Kars approaches, his expression grim, and warns her that Bellius is rallying his faction for a final strike. Nesta demands to know when, but Kars only shakes his head. \"Soon. Before Cassian returns.\" Nesta seeks out Devlon, demanding to know why Cassian was sent away. Devlon dismisses her concerns, his voice cold. \"The General has his duties. You have yours.\" Nesta presses him, her voice sharp, but Devlon only smirks. \"You’re not one of us, girl. Remember that.\" As she turns to leave, she notices Bellius watching from the shadows, his lips curled into a smirk. The air between them crackles with malice. Nesta returns to her hut, her mind racing. She checks the dagger Cassian gave her, her fingers tracing the hilt. The door creaks open, and she tenses—but it’s only Kars, his expression urgent. He tells her that Bellius’s faction plans to strike at dusk, when the camp is distracted by the storm. Nesta asks why he’s helping her, and Kars meets her gaze, his voice steady. \"Because I believe in what you could be.\" Nesta doesn’t respond, but her grip on the dagger tightens. Nesta steps outside, the rain soaking her to the bone. She moves toward the training grounds, her body tense. The warriors are gathered around the fire, their laughter loud and forced. Bellius stands at the center, his voice booming. \"Tonight, we celebrate the storm!\" The warriors cheer, but their eyes flick toward Nesta, their expressions a mix of pity and anticipation. Nesta ignores them, her gaze locked onto Bellius. He meets her stare, his smirk unshaken. \"Join us, Nesta. Or are you too afraid?\" The camp descends into chaos as the storm worsens. Lightning splits the sky, and the warriors scatter, seeking shelter. Nesta remains at the training grounds, her dagger drawn. Bellius steps forward, his wings flared, his Siphons glowing. \"You should have run,\" he snarls. Nesta doesn’t respond, her body coiled like a spring. Bellius lunges, and Nesta evades, her movements fueled by adrenaline and rage. The warriors watch from the shadows, their expressions unreadable. Nesta lands a solid blow to Bellius’s ribs, but he recovers quickly, his laughter dark. \"Is that all you’ve got?\" A roar splits the night—Cassian, his wings spread wide, his Siphons glowing crimson. He lands between Nesta and Bellius, his voice a command. \"Step away from her.\" Bellius hesitates, his gaze flicking between Cassian and Nesta. The warriors murmur, their loyalty divided. Cassian’s voice is low, dangerous. \"This ends now.\" Bellius smirks, but there’s a flicker of uncertainty in his eyes. \"You’re too late, General.\" Nesta steps forward, her voice steady. \"No. He’s right on time.\" [Closes on: Nesta stands beside Cassian, her breath ragged, her body trembling with exhaustion. The storm rages around them, the wind howling like a warning. Cassian’s voice is a low rumble. \"We’re not done here.\" Nesta meets his gaze, her voice steady. \"I know.\" The shadows of the mountains loom, a reminder that the fight for survival is far from over—and the choice to run or stand her ground is hers alone.]",
+    "Chapter 22 — The Weight of Wings: Nesta wakes before dawn, her body aching from the previous night’s confrontation. The camp is eerily quiet, the warriors avoiding her gaze as she moves through the morning routine. She notices Kars lingering near the edge of the training grounds, his expression troubled. He approaches her, warning that Bellius’s faction is regrouping, their plans unclear but their intent undeniable. Nesta demands answers, but Kars only shakes his head—\"They’re not done with you.\" Cassian returns from his reconnaissance mission, his expression grim. He pulls Nesta aside, away from prying ears, and tells her what he’s discovered: Bellius’s faction has been in contact with a rogue Illyrian clan known for their brutality. They’re planning something bigger than an assassination—an uprising. Cassian insists Nesta must leave the camp, but she refuses, her voice sharp. \"I’m not running. Not from them, not from you.\" Their argument escalates, the tension between them crackling with unspoken emotion. Devlon calls a meeting of the senior warriors, excluding Nesta. She eavesdrops from the shadows, hearing fragments of the conversation—Bellius’s name is mentioned, along with whispers of a coup. Kars slips away from the group, his expression urgent as he finds Nesta. \"They’re planning to move tonight,\" he says. \"Bellius wants to make an example of you.\" Nesta’s mind races, but before she can respond, Cassian steps into view, his gaze locked onto hers. \"We need to act. Now.\" Nesta and Cassian confront Devlon, demanding answers. Devlon is dismissive, his loyalty to Bellius clear, but Nesta refuses to back down. She challenges him outright, her voice cutting through the tension. \"You’d rather let Bellius tear this camp apart than admit you’re wrong.\" The warriors watching shift uneasily, their loyalty divided. Cassian steps forward, his voice a command. \"This ends tonight. With or without you.\" Nesta trains alone in the fading light, her movements sharp and precise. The warriors watch from a distance, their expressions unreadable. Kars joins her, offering quiet encouragement, but Nesta’s mind is elsewhere—on Cassian, on Bellius, on the choice she knows she must make. As the sun sets, Cassian approaches, his expression unreadable. \"We need to talk,\" he says. Nesta doesn’t look at him. \"About what?\" Cassian’s voice is low. \"About what happens next.\" [Closes on: Nesta stands at the edge of the training grounds, the cold wind biting at her skin. Cassian’s voice is a low rumble beside her. \"We move at dawn.\" Nesta doesn’t look at him, her gaze locked onto the shadows beyond the camp. \"I’ll be ready.\" The wind howls through the mountains, carrying the sound of distant wings—someone is watching. And the storm is far from over.]",
+    "Chapter 23 — The Breaking Point: Nesta wakes to the sound of distant drums, the camp already alive with tension. The warriors avoid her, their whispers dying as she passes. She finds Kars sharpening his blades near the training grounds, his expression grim. He warns her that Bellius’s faction has called a gathering at the northern ridge—one that doesn’t include Cassian or Devlon. Nesta demands to know why, but Kars only shakes his head. \"They’re not just planning an attack. They’re planning a war.\" Nesta seeks out Cassian, finding him in the war tent with Devlon. The air is thick with tension as Devlon dismisses her concerns, his voice dripping with condescension. \"This is Illyrian business, girl. Stay out of it.\" Cassian’s jaw clenches, but before he can respond, Nesta steps forward, her voice sharp. \"This isn’t about Illyrians or outsiders. It’s about traitors.\" Devlon’s eyes narrow, but Cassian cuts in, his voice a command. \"We’re handling it.\" Nesta meets his gaze, her voice low. \"Are you?\" Nesta storms to the training grounds, her frustration boiling over. She spars with a dummy, her movements fueled by rage, until Kars interrupts. He tells her that Bellius’s faction is moving sooner than expected—they’re planning to ambush her at dusk, when the camp is distracted by a false alarm. Nesta demands to know why Kars is helping her, and he meets her gaze, his voice steady. \"Because you’re the only one who sees us as more than pawns.\" Nesta confronts Cassian in his quarters, her voice sharp. \"You’re letting them walk all over you. Over us.\" Cassian’s frustration boils over, his voice rising. \"This isn’t about us, Nesta! This is about keeping this camp from tearing itself apart!\" Nesta doesn’t back down, her voice cutting through the tension. \"Then stop treating me like I’m the problem.\" The air between them crackles, charged with unspoken emotion. Cassian steps closer, his voice a low growl. \"You want to be part of this? Fine. But you don’t get to question my choices.\" Nesta and Kars prepare for the ambush, setting traps around the training grounds. As they work, Kars asks why she’s staying, why she’s fighting. Nesta hesitates, her voice quiet. \"Because I’m tired of running.\" Kars nods, his expression unreadable. \"Then we fight.\" Night falls, and the camp descends into chaos as a false alarm is raised—wolves near the perimeter. The warriors scatter, leaving Nesta alone in the shadows. Bellius steps forward, his Siphons glowing, his smirk unshaken. \"Did you really think you could win?\" The fight is brutal. Bellius’s faction attacks, their blades flashing in the dark. Nesta fights with a ferocity she didn’t know she possessed, her body moving on instinct. Kars fights beside her, his loyalty unwavering. Cassian arrives mid-battle, his wings spread wide, his Siphons blazing. He doesn’t hesitate—he joins the fight, his voice a command. \"Enough!\" Bellius lunges at Nesta, but she evades, her blade finding his side. He stumbles, his smirk twisting into a snarl. \"This isn’t over.\" [Closes on: Nesta stands at the edge of the training grounds, the cold wind biting at her skin. Cassian’s voice is a low rumble beside her. \"We move at dawn.\" Nesta doesn’t look at him, her gaze locked onto the shadows beyond the camp. \"Then we finish this.\" The wind howls through the mountains, carrying the sound of distant wings—and the promise of war.]",
+    "Chapter 24 — The Edge of the Blade: Nesta wakes before dawn, her body still aching from the previous night’s battle. The camp is unnaturally quiet, the warriors avoiding her as she moves through the morning routine. She notices Kars standing apart from the others, his expression grim. He approaches her, warning that Bellius’s faction has not been seen since the ambush, and whispers of their regrouping near the northern cliffs reach him. Nesta demands to know more, but Kars only shakes his head—\"They’re not done with you.\" Nesta seeks out Cassian in the war tent, where he and Devlon are in tense discussion. Devlon dismisses her concerns about Bellius, but Cassian cuts him off, his voice sharp. \"She’s not leaving.\" Nesta challenges Devlon directly, her voice cutting through the tension. \"You’d rather let this camp burn than admit you’re wrong.\" Devlon’s face darkens, but Cassian steps between them, his gaze locked onto Nesta’s. \"We move at dawn. Be ready.\" Nesta trains alone, her movements fueled by frustration and adrenaline. Kars joins her, offering quiet encouragement, but Nesta’s mind is elsewhere—on Cassian’s words, on Bellius’s threat, on the choice she knows she must make. Kars presses her, asking why she’s staying. Nesta hesitates, her voice barely above a whisper. \"Because I’m tired of being afraid.\" Kars nods, his expression unreadable. \"Then we fight.\" Night falls, and the camp is eerily silent. Nesta and Kars set traps around the training grounds, their movements synchronized. As they work, Nesta notices a group of warriors watching from the shadows—some with curiosity, others with open hostility. Kars warns her that the camp is more divided than ever. \"They’re waiting to see who wins,\" he says. Nesta’s voice is firm. \"Then we give them a reason to choose us.\" The ambush comes without warning. Bellius’s faction attacks from the shadows, their blades flashing in the dark. Nesta fights with a ferocity she didn’t know she possessed, her body moving on instinct. Kars fights beside her, his loyalty unwavering. Cassian arrives mid-battle, his wings spread wide, his Siphons blazing. He doesn’t hesitate—he joins the fight, his voice a command. \"Enough!\" Bellius lunges at Nesta, but she evades, her blade finding his side. He stumbles, his smirk twisting into a snarl. \"This isn’t over.\" The battle ends as abruptly as it began. The warriors who watched from the shadows now step forward, their expressions unreadable. Cassian turns to Nesta, his voice low. \"Are you hurt?\" Nesta shakes her head, her breath ragged. \"No. But they will be.\" Cassian’s gaze darkens, but before he can respond, Devlon steps forward, his voice dripping with disdain. \"This isn’t over, General.\" Cassian meets his gaze, his voice a growl. \"No. It’s not.\" [Closes on: Nesta and Cassian standing side by side, the cold wind biting at their skin. The mountains loom around them, silent and watchful. Cassian’s voice is a low rumble. \"Dawn. We move then.\" Nesta meets his gaze, her voice steady. \"I’ll be ready.\" The shadows shift—someone is watching. And the war has only just begun.]",
+    "Chapter 25 — The Storm Before Dawn: Nesta wakes in the pre-dawn darkness, the camp silent except for the distant murmur of warriors. She dresses quickly, her body stiff from the previous night’s battle, and moves to the training grounds. Kars is already there, sharpening his blades, his expression grim. He tells her that Bellius’s faction has been spotted near the northern cliffs, their numbers growing. Nesta demands to know why Devlon isn’t acting, but Kars only shakes his head—\"He’s waiting for Cassian to make the first move.\" Nesta confronts Cassian in his quarters, her voice sharp with accusation. \"You’re letting them call the shots. You’re letting Devlon dictate the terms.\" Cassian’s frustration boils over, his wings rustling with tension. \"This isn’t about what I want, Nesta. This is about keeping this camp from tearing itself apart.\" Nesta doesn’t back down, her voice cutting through the tension. \"Then stop treating me like I’m the problem.\" The air between them crackles, charged with unspoken emotion. Cassian steps closer, his voice a low growl. \"You want to be part of this? Fine. But you don’t get to question my choices.\" Nesta and Kars scout the northern cliffs, where Bellius’s faction is regrouping. They overhear fragments of a conversation—Bellius is planning to attack at first light, using the chaos of a false alarm to mask their movements. Nesta’s mind races, but Kars interrupts her thoughts, his voice urgent. \"They’re not just planning an attack. They’re planning to burn the camp to the ground.\" Nesta meets his gaze, her voice steady. \"Then we stop them.\" Nesta returns to the camp and seeks out the warriors who watched the previous night’s battle. She finds a small group gathered near the training grounds, their expressions wary. Nesta doesn’t mince words—\"Bellius is planning to destroy this camp. I’m going to stop him. If you want to live, you’ll fight with me.\" The warriors exchange glances, but one steps forward, his voice low. \"We’re with you.\" Nesta and Kars prepare for the coming battle, setting traps and planning their ambush. As they work, Nesta notices Cassian watching from the shadows, his expression unreadable. He steps forward, his voice low. \"You’re really doing this.\" Nesta doesn’t look at him. \"Someone has to.\" Cassian’s jaw clenches, but before he can respond, Devlon’s voice cuts through the tension. \"This is treason, girl.\" Nesta meets his gaze, her voice steady. \"No. This is survival.\" Night falls, and the camp is eerily silent. Nesta stands at the edge of the training grounds, her blade in hand, her breath steady. The warriors who pledged their loyalty to her gather in the shadows, their expressions determined. Kars steps beside her, his voice quiet. \"We’re ready.\" Nesta nods, her gaze locked onto the northern cliffs. \"Then we wait.\" The wind howls through the mountains, carrying the sound of distant wings—Bellius’s faction is on the move. And the war has only just begun. [Closes on: Nesta stands at the edge of the training grounds, her blade in hand, her breath steady. The wind howls through the mountains, carrying the sound of distant wings—Bellius’s faction is on the move. And the storm is about to break.]",
+    "Chapter 26 — The Weight of Wings: Nesta wakes to the sound of distant thunder, the air thick with the scent of rain and impending violence. She dresses quickly, her movements precise, and meets Kars at the edge of the training grounds. He informs her that Bellius’s faction has begun their march toward the camp, their numbers larger than expected. Nesta’s stomach tightens, but she forces herself to focus, her voice steady as she outlines their plan to Kars and the small group of warriors who have pledged their loyalty to her. Nesta and her faction move to the northern cliffs, where they set up their ambush. As they work, Nesta notices the warriors’ hesitation—some are still unsure of her, their loyalty fragile. She approaches one of them, a young warrior named Torin, and speaks to him directly, her voice low but firm. \"You don’t have to fight for me. But if you stay, you fight for this camp.\" Torin meets her gaze, his expression hardening, and nods. Cassian arrives at the cliffs, his wings spread wide against the storm. He confronts Nesta, his voice sharp with frustration. \"You’re leading them into a slaughter. This isn’t the way.\" Nesta doesn’t back down, her voice cutting through the wind. \"Then what is? Letting Bellius burn this camp to the ground?\" Cassian’s jaw clenches, but before he can respond, Kars steps forward, his voice quiet but firm. \"She’s right. We don’t have a choice.\" The first wave of Bellius’s faction crests the ridge, their Siphons glowing in the storm. Nesta gives the signal, and her warriors spring their traps—ropes snapping, rocks tumbling, blades flashing. The battle is chaotic, the rain making the ground slick and treacherous. Nesta fights with a precision she didn’t know she possessed, her body moving on instinct. She disarms one warrior, then another, but Bellius is nowhere to be seen. Bellius lunges at Nesta from the shadows, his blade aimed for her throat. She barely evades, her body twisting away, but his strike grazes her arm, drawing blood. She stumbles, her vision blurring for a moment, but she forces herself to focus. Bellius smirks, his voice a snarl. \"You were always going to lose.\" Nesta doesn’t respond—she attacks, her blade flashing in the storm. Their fight is brutal, a dance of steel and fury, but Nesta holds her own, her movements fueled by something deeper than rage. Bellius hesitates, his smirk faltering. Behind him, the remaining warriors of his faction lower their weapons, their expressions grim. Cassian lands beside Nesta, his Siphons blazing, his voice a command. \"It’s over.\" Bellius’s gaze flicks between Nesta and Cassian, his expression twisting with hatred. \"This isn’t over.\" Nesta doesn’t lower her blade. \"For you, it is.\" The battle ends as abruptly as it began. The warriors who stood with Nesta gather around her, their expressions a mix of awe and respect. Cassian approaches, his gaze locked onto hers, his voice quiet. \"You did it.\" Nesta doesn’t look at him, her breath still ragged. \"We did.\" The rain begins to ease, the storm passing, but the tension between them remains, thick and unspoken. Cassian reaches out, his fingers brushing her arm where Bellius’s blade grazed her. \"You’re hurt.\" Nesta pulls away, her voice sharp. \"It’s nothing.\" [Closes on: Nesta standing at the edge of the cliffs, the storm clearing around her. The wind carries the sound of distant wings—some retreating, others waiting. Cassian watches her from a distance, his expression unreadable. The question lingers in the air: What comes next?]",
+    "Chapter 27 — The Silence Between Us: Nesta wakes before dawn, her body stiff and aching from the battle. The camp is quiet, the air thick with the scent of rain and smoke. She moves through the training grounds, noting the wary glances from the warriors who fought beside her. Kars approaches, informing her that Devlon has called a meeting in the war tent—Bellius’s remaining faction is demanding retribution, and the camp’s leadership is divided. Nesta enters the war tent, where Devlon, Cassian, and a handful of senior warriors are gathered. Devlon immediately accuses her of undermining his authority, his voice dripping with disdain. Cassian cuts in, his tone sharp, but Nesta speaks before he can defend her, her voice cold and measured. \"I did what was necessary to save this camp. If you’d rather it burned, say so now.\" The tent falls silent, the warriors watching with bated breath. After the meeting, Cassian follows Nesta outside. He tries to speak to her, but she cuts him off, her voice laced with exhaustion. \"Don’t. Not now.\" He reaches for her arm, but she pulls away, her expression unreadable. The distance between them feels insurmountable, the weight of unspoken words pressing down. Cassian’s voice is quiet. \"You can’t keep pushing everyone away.\" Nesta doesn’t respond, her gaze fixed on the horizon. Nesta seeks out Torin, the young warrior who pledged his loyalty to her. She finds him tending to his wounds, his expression wary. She asks him why he fought for her, and he hesitates before answering. \"Because you didn’t ask for permission. You just did what needed to be done.\" Nesta is struck by the simplicity of his words, the weight of his trust. She offers him her hand, her voice steady. \"Then we’ll do it again.\" Night falls, and Nesta stands at the edge of the cliffs, the wind biting at her skin. She hears footsteps behind her—Cassian, his presence unmistakable. He doesn’t speak at first, the silence between them heavy. When he finally does, his voice is raw. \"I don’t know how to do this anymore.\" Nesta turns to face him, her expression unguarded for the first time. \"Neither do I.\" The admission hangs between them, fragile and unspoken. [Closes on: Cassian’s hand reaching out, his fingers brushing Nesta’s before pulling away. The wind howls between them, carrying the sound of distant wings—someone is watching. And the reckoning is far from over.]",
+    "Chapter 28 — The Things We Carry: Nesta wakes to the sound of hushed voices outside her tent. She steps out to find Kars and Torin arguing with a group of warriors who demand to know why they should follow her after the battle. Nesta listens, her expression unreadable, before stepping forward and addressing them directly: \"You don’t follow me. You follow the choice to survive.\" The warriors exchange glances, but none challenge her. Nesta meets with Cassian in the war tent, where Devlon has called an emergency council. Devlon accuses her of destabilizing the camp, but Cassian shuts him down, his voice icy. Nesta watches the exchange, her fingers curling into fists. When Devlon storms out, Cassian turns to her, his expression unreadable. \"You’re not making this easy.\" Nesta’s voice is quiet. \"I’m not here to make things easy for you.\" Nesta trains alone on the cliffs, pushing her body to its limits. Kars joins her, offering to spar. Their fight is brutal, a dance of blades and strategy, but Nesta holds her own. As they pause, Kars speaks quietly. \"You’re not the girl who arrived here.\" Nesta wipes sweat from her brow, her voice steady. \"No. I’m not.\" Nesta is summoned to the war tent again, this time by Azriel, who has returned from scouting. He reveals that Bellius’ faction has regrouped with a rogue clan from the northern mountains, their numbers now doubled. The camp is on the brink of war. Nesta listens, her mind racing, but when Azriel asks for her thoughts, she surprises everyone by outlining a plan—one that involves luring the enemy into a trap rather than meeting them head-on. Night falls, and Nesta stands at the edge of the cliffs, staring into the darkness. Cassian finds her there, his wings folded tight. He doesn’t speak at first, the silence between them heavy. When he finally does, his voice is raw. \"I don’t know how to do this with you.\" Nesta turns to face him, her expression unguarded. \"Neither do I.\" For the first time, there’s no anger in her voice—only exhaustion, and something else, something fragile. [Closes on: Nesta and Cassian stand at the edge of the cliffs, the wind tangling their hair and feathers. The distant sound of wings grows louder—someone is coming. And whatever happens next, they’ll face it together. Or not at all.]",
+    "Chapter 29 — The Edge of the Blade: Nesta wakes to the sound of alarms blaring through the camp. The rogue clan allied with Bellius has launched a surprise attack at dawn, their forces already breaching the outer perimeter. Kars bursts into her tent, his face streaked with blood, and informs her that Cassian and Azriel are holding the line but are outnumbered. Nesta grabs her weapons and races toward the battle, her mind clear and focused despite the chaos. Nesta fights her way through the battlefield, her movements precise and ruthless. She saves a young warrior from being overwhelmed, her voice sharp as she barks orders. The warrior, stunned by her command, follows without question. Nesta spots Cassian across the field, his Siphons blazing as he cuts down enemy after enemy. Their eyes meet for a brief moment, and something unspoken passes between them—trust, or something dangerously close to it. Nesta and Cassian fight their way toward the ridge, where Bellius and a contingent of the rogue clan await. Bellius taunts them, revealing that Devlon has sided with him, offering the camp’s surrender in exchange for power. Nesta’s blood runs cold, but she doesn’t falter. Cassian’s voice is low, urgent. \"We don’t have to do this alone.\" Nesta glances at the warriors around her—Kars, Torin, and others who have fought beside her—and realizes he’s right. She raises her blade, her voice ringing out. \"Who stands with us?\" The final battle begins. Nesta and Cassian lead the charge, their blades moving in sync as they cut through Bellius’s forces. Nesta faces Bellius one-on-one, their fight brutal and personal. She disarms him, her blade at his throat, but hesitates. Bellius sneers, his voice a whisper. \"You don’t have the stomach for this.\" Nesta’s grip tightens on her weapon, but before she can strike, Cassian’s hand closes over hers, his voice steady. \"You don’t have to.\" The battle is over, but the camp is in ruins. Nesta stands amidst the wreckage, her body trembling with exhaustion. Cassian approaches, his expression unreadable. \"You did it,\" he says, his voice quiet. Nesta doesn’t look at him, her gaze fixed on the horizon. \"We did.\" The silence between them is heavy, but this time, it’s not filled with anger—just the weight of everything they’ve survived. Cassian reaches out, his fingers brushing hers. \"What now?\" [Closes on: Nesta and Cassian stand at the edge of the cliffs, their hands almost touching. The wind carries the sound of wings—some retreating, others circling. The question lingers: What do they fight for now?]",
+    "Chapter 30 — The Things We Fight For: Nesta wakes in the aftermath of the battle, her body aching and her mind racing. The camp is in disarray, warriors tending to their wounds and the dead being carried away. Kars approaches her, informing her that Devlon has fled, leaving the camp leaderless. Nesta realizes the weight of what’s to come—not just the rebuilding, but the question of who will lead them. Nesta is summoned to the war tent, where Cassian and Azriel are already gathered. The remaining senior warriors look to her, expecting her to step into a leadership role. Cassian watches her carefully, his expression unreadable. Nesta hesitates, then speaks, outlining a plan to secure the camp’s defenses and send word to Rhysand for reinforcements. The warriors listen, their respect for her palpable. After the meeting, Nesta slips away to the cliffs, needing a moment alone. Cassian follows her, the silence between them heavy with unspoken words. He finally speaks, his voice raw. \"You could have left. After the battle, you could have walked away.\" Nesta doesn’t turn to face him, her gaze fixed on the horizon. \"So could you.\" The admission hangs between them, fragile and honest. Nesta turns to face Cassian, her expression unguarded for the first time. She speaks quietly, her voice trembling. \"I don’t know how to do this at all.\" The words are an admission of fear, of uncertainty, but also of trust. Cassian steps closer, his wings rustling in the wind. \"Then we’ll figure it out together.\" The moment stretches between them, charged with something neither dares to name. The sound of wings cuts through the moment. Rhysand and Feyre land on the cliffs, their expressions grim. Rhysand’s voice is urgent. \"We came as soon as we heard. The rogue clan isn’t just a threat to the camp—they’re a threat to the entire Night Court.\" Nesta and Cassian exchange a glance, the weight of the larger conflict settling over them. Feyre steps forward, her gaze locking onto Nesta. \"You did this. You saved them.\" Rhysand outlines the plan: the rogue clan must be dealt with before they can regroup and launch another attack. Nesta listens, her mind racing, then surprises everyone by proposing a strategy—one that involves using the camp’s fractured loyalty to their advantage. Cassian watches her, pride and something deeper flickering in his eyes. Rhysand nods, his voice approving. \"Then it’s settled.\" The final confrontation with the rogue clan takes place at dawn. Nesta and Cassian lead the charge, their blades moving in sync as they cut through the enemy lines. Nesta faces the rogue clan’s leader, a hulking warrior who sneers at her. \"You think you’re one of us? You’re nothing.\" Nesta’s voice is cold. \"I don’t need to be one of you. I just need to be better than you.\" The fight is brutal, but Nesta emerges victorious, her blade dripping with blood. The battle is over, but the camp is in ruins. Nesta stands amidst the wreckage, her body trembling with exhaustion. The warriors who once scorned her now look to her with respect. Kars approaches, his voice quiet. \"What now?\" Nesta looks at Cassian, then at the horizon. \"Now, we rebuild.\" [Closes on: Nesta and Cassian stand at the edge of the cliffs, their hands intertwined. The wind carries the sound of wings, but this time, it’s not a warning—it’s a promise. The question lingers in the air between them: What do they fight for now? And for the first time, neither is afraid to answer.]"
+  ],
+  "last_completed_chapter": 30,
+  "timestamp": "2026-04-22T13:58:59.665120+00:00"
+}

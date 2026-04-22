@@ -1,0 +1,80 @@
+{
+  "title": "A Court of Wings and Ruin",
+  "premise": "Nesta Archeron is exiled to the brutal Illyrian Mountains under Cassian’s command, where the harsh wilderness and the weight of her own trauma force her to confront the hollowness inside her. As Cassian pushes her to train among the warriors she despises, their explosive dynamic ignites a battle of wills that neither can escape—one that may either break them or forge something unrecognizable between them.",
+  "structure_type": "dual-perspective linear",
+  "total_chapters": 30,
+  "central_conflict": "Nesta’s refusal to engage with her own healing clashes with Cassian’s relentless demand for her to reclaim her strength, forcing both to question whether survival is enough—or if they must learn to live again.",
+  "primary_arcs": [
+    {
+      "arc_name": "Nesta’s Descent and Rebirth",
+      "character": "Nesta",
+      "starts_at": "Arrives in the Illyrian Mountains hollow, numb, and determined to resist any attempt to change her.",
+      "ends_at": "Chooses to fight—not for others, but for herself—embracing the warrior within her she never knew existed.",
+      "key_turning_point": "Nesta is forced to save a wounded warrior during a training exercise, realizing her strength is not just a weapon but a lifeline."
+    },
+    {
+      "arc_name": "Cassian’s Gambit",
+      "character": "Cassian",
+      "starts_at": "Believes Nesta’s exile is the only way to save her, but doubts his own methods as her resistance wears him down.",
+      "ends_at": "Accepts that Nesta’s healing cannot be forced, and that his role is not to save her—but to stand beside her when she saves herself.",
+      "key_turning_point": "Cassian witnesses Nesta’s raw power during a sparring match and realizes she is not the broken girl he thought he knew."
+    },
+    {
+      "arc_name": "The Illyrian Uprising",
+      "character": "Illyrian Warriors (Collective)",
+      "starts_at": "The warriors resent Nesta’s presence, seeing her as a spoiled outsider unworthy of their training.",
+      "ends_at": "A faction of warriors, led by a disillusioned Devlon, stages a coup, forcing Nesta and Cassian to unite or die.",
+      "key_turning_point": "Nesta’s refusal to back down during a public challenge earns her the respect of a few key warriors, fracturing the ranks."
+    }
+  ],
+  "acts": [
+    {
+      "label": "The Exile",
+      "chapter_range": "1-8",
+      "narrative_goal": "Establish the brutal reality of Nesta’s exile and the immediate tension between her and Cassian. Introduce the Illyrian culture and its disdain for outsiders, particularly women.",
+      "ends_with": "Nesta’s first public humiliation during training, where she is forced to spar with a warrior twice her size and is nearly broken—until she taps into a hidden reserve of power.",
+      "dominant_arcs": [
+        "Nesta’s Descent and Rebirth",
+        "Cassian’s Gambit"
+      ]
+    },
+    {
+      "label": "The Grind",
+      "chapter_range": "9-16",
+      "narrative_goal": "Show the slow, grueling process of Nesta’s training, where she begins to find fragments of herself in the discipline. Cassian’s methods grow more personal, and their clashes escalate into something charged with unspoken emotion.",
+      "ends_with": "Nesta saves a young warrior from a training accident, proving her instincts are sharper than anyone expected. Cassian sees her in a new light, but she refuses to acknowledge it.",
+      "dominant_arcs": [
+        "Nesta’s Descent and Rebirth",
+        "Cassian’s Gambit",
+        "The Illyrian Uprising"
+      ]
+    },
+    {
+      "label": "The Fracture",
+      "chapter_range": "17-24",
+      "narrative_goal": "The political tensions in the Illyrian ranks come to a head. Nesta’s growing skills make her a target, and Cassian’s leadership is tested. Their relationship reaches a breaking point—one that forces Nesta to confront her feelings for him, even as she denies them.",
+      "ends_with": "A failed assassination attempt on Nesta leaves her injured and Cassian enraged. The warriors realize she is not as weak as they thought, and a faction begins to rally around her.",
+      "dominant_arcs": [
+        "Nesta’s Descent and Rebirth",
+        "The Illyrian Uprising"
+      ]
+    },
+    {
+      "label": "The Reckoning",
+      "chapter_range": "25-30",
+      "narrative_goal": "The coup erupts, forcing Nesta and Cassian into a desperate alliance. Nesta must decide whether to flee or fight, and Cassian must trust her to hold her own. Their final confrontation is not with weapons, but with words—each laying bare the truths they’ve avoided.",
+      "ends_with": "Nesta leads a charge against the rebels, using her cunning and newfound strength to turn the tide. Cassian watches in awe as she claims her place among the warriors—not as an outsider, but as one of them. They return to Velaris changed, but the question of what comes next lingers between them.",
+      "dominant_arcs": [
+        "Nesta’s Descent and Rebirth",
+        "Cassian’s Gambit"
+      ]
+    }
+  ],
+  "world_threads_activated": [
+    "Feyre informs Nesta she must leave Velaris for the Illyrian Mountains with Cassian",
+    "Rhys and Cassian negotiate with Devlon about female warrior training schedule",
+    "Illyrian dissent and political unrest (implied in unresolved threads)",
+    "Nesta’s destructive behavior and emotional detachment (canon state)"
+  ],
+  "tone": "Gritty and raw, with moments of dark humor and simmering tension. The emotional register shifts between brutal honesty and quiet vulnerability, mirroring Nesta’s journey from numbness to feeling."
+}
